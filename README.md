@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>31,439</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>31,605</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,13 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**31,439 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
+**31,605 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Business Development Associate | ADP employer 91a10898 | Washington, DC, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91a10898-d8ce-4d8a-8e43-34624df15cff&ccId=19000101_000001&jobId=560041&lang=en_US&source=CC2) |
+| Inside Sales Representative | ADP employer 8c4c2eca | Las Cruces, NM, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8c4c2eca-2ecf-4f7c-ad2a-56e2cdac636b&ccId=19000101_000001&jobId=598277&lang=en_US&source=CC2) |
 | Sales Representative - Twin Cities Metro | D.R. Horton | Lakeville, MN, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605763&lang=en) |
 | Sales Manager | D.R. Horton | Lakeville, MN, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605772&lang=en) |
 | Sales Representative | D.R. Horton | Edmond, OK, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605637&lang=en) |
@@ -84,6 +86,18 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Account Executive, Networking and Semiconductors | code-metal | Remote |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/code-metal/6f27b46b-b806-41bf-82a6-23fbb5369fa2) |
 | Account Executive, Medical Devices | code-metal | Remote |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/code-metal/f7be6e20-d0df-4f53-89b9-709b98731dcc) |
 | Account Executive, Industrial | code-metal | Remote |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/code-metal/ced056fe-3e6e-4030-9154-60f00f7d0a1c) |
+| Wealth Management & Business Development Associate | Sanctuary Wealth | Des Moines, IA |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667468) |
+| Inside Sales Representative | Venturi Supply | Long Beach, CA |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668673) |
+| Building Point Sales Rep | ALLTERRA CENTRAL INC | San Antonio, TX |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670268) |
+| Building Point Sales Rep | ALLTERRA CENTRAL INC | Southlake, TX |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670319) |
+| Sales Territory Manager - Heavy Equipment, Las Vegas area | ICM Solutions | North Las Vegas, NV |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669070) |
+| Business Development Manager - Greenville, SC | ADP employer 93d21715 | Greenville, SC, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93d21715-feb6-42b0-bfc6-8df330c1b6b5&ccId=19000101_000001&jobId=569236&lang=en_US&source=CC2) |
+| Business Development Manager - Charlotte, NC | ADP employer 93d21715 | Charlotte, NC, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93d21715-feb6-42b0-bfc6-8df330c1b6b5&ccId=19000101_000001&jobId=569237&lang=en_US&source=CC2) |
+| Inside Sales Representative | ADP employer 8c4c2eca | Texarkana, TX, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8c4c2eca-2ecf-4f7c-ad2a-56e2cdac636b&ccId=19000101_000001&jobId=598267&lang=en_US&source=CC2) |
+| Regional Sales Manager - Washington DC area | quenchwater | Washington, DC |  | 2026-11-16 | [Apply](https://jobs.lever.co/quenchwater/981d50f9-d995-4f9c-93d4-059c498deca2) |
+| Regional Account Executive, Hospitality - Phoenix | quenchwater | Phoenix, AZ |  | 2026-11-16 | [Apply](https://jobs.lever.co/quenchwater/d1b66d72-e9ee-413f-8142-1f3a23af9076) |
+| Direct Market Reseller (DMR) Channel Manager | prometheanworld | US Remote |  | 2026-11-16 | [Apply](https://jobs.lever.co/prometheanworld/c4de1be0-d9cc-4104-a9e4-7eb04f83bb85) |
+| Account Executive | everbridge | United States |  | 2026-11-16 | [Apply](https://jobs.lever.co/everbridge/4898f5a4-1a87-4ad2-9671-ad5faf03fdda) |
 | Field Sales Account Executive - Westfield, NJ | CooperSurgical | Westfield, NJ, United States |  | 2026-11-16 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13023) |
 | Team Manager, Sales | Pearson | Dallas, TX, United States |  | 2026-11-16 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26578) |
 | Sales Representative | Northwell Health | Lake Success, Nassau, United States |  | 2026-11-16 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/197870) |
@@ -191,20 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Camping Sales - Part Time | basspro | Auburn Hills, MI |  | 2026-11-16 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Auburn-Hills-MI/Camping-Sales---Part-Time_R272686) |
 | Sales Outfitter - Fishing | basspro | Allen, TX |  | 2026-11-16 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Allen-TX/Sales-Outfitter---Fishing_R272621) |
 | Business Development Manager, Commercial End-users | abb | Remote, California, United States of America |  | 2026-11-16 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Remote-California-United-States-of-America/Business-Development-Manager--Commercial-End-users_JR00052989) |
-| (USA) Director, Emerging Sales - Walmart Connect (Advertising Sales - ETS) | Walmart | (USA) LA CREATIVE HUB 5404 JANDY CA LOS ANGELES Home Office |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-LA-CREATIVE-HUB-5404-JANDY-CA-LOS-ANGELES-Home-Office/XMLNAME--USA--Director--Emerging-Sales---Walmart-Connect--Advertising-Sales---ETS-_R-2697097) |
-| (USA) Senior Partner, Advertising Sales, Walmart Connect | Walmart | (USA) 167 N GREEN ST IL CHICAGO Home Office |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA--167-N-GREEN-ST-IL-CHICAGO-Home-Office/XMLNAME--USA--Senior-Partner--Advertising-Sales--Walmart-Connect_R-2705356-1) |
-| Senior Catering Sales Manager | asmglobal | Ft. Lauderdale, FL |  | 2026-11-16 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Ft-Lauderdale-FL/Senior-Catering-Sales-Manager_R100126629) |
-| Non-Profit Account Executive: Analytics (All Levels) | Salesforce | 8 Locations |  | 2026-11-16 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Non-Profit-Account-Executive--Analytics--All-Levels-_JR368484) |
-| Account Executive, Department of Transportation | Salesforce | Virginia - Mclean |  | 2026-11-16 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Account-Executive--Department-of-Transportation_JR368116) |
-| Enterprise Sales Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682) |
-| Specialty Sales Team Leader - Tyler, TX | Target | 7003 S Broadway Ave, Tyler,TX 75703-4737 |  | 2026-11-16 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7003-S-Broadway-Ave-TylerTX-75703-4737/Specialty-Sales-Team-Leader---Tyler--TX_R0000480892-1) |
-| Specialty Sales Team Leader | Target | 2100 N 2nd St, Millville, NJ 08332-1304 |  | 2026-11-16 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2100-N-2nd-St-Millville-NJ-08332-1304/Specialty-Sales-Team-Leader_R0000480955) |
-| Claim Account Executive | Travelers | 4 Locations |  | 2026-11-16 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Claim-Account-Executive_R-53755) |
-| Manager, Inside Sales | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-16 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/Manager--Inside-Sales_3170869-1) |
-| Account Executive (AE) - Enterprise | HP | 2 Locations |  | 2026-11-16 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-Tennessee-United-States-of-America/Account-Executive--AE----Enterprise_JET0207-1) |
-| Salesforce Sales Administrator-Aetna Commercial | CVS Health | 45 Locations |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Salesforce-Sales-Administrator-Aetna-Commercial_R1092121) |
-| Hybrid Field Sales Representative (Jacksonville, FL) | CVS Health | 2 Locations |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Field-Florida/Hybrid-Field-Sales-Representative--Jacksonville--FL-_R1097834-1) |
-| Account Executive - Meritain | CVS Health | 18 Locations |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Account-Executive---Meritain_R1081645) |
 <!-- JOBS_TABLE_END -->
 
 <details>
