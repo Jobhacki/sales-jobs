@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>34,664</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>34,545</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 08:16 UTC</sub>
+<sub>Snapshot 2026-11-20 12:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,23 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**34,664 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**34,545 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sales Representative - Fort Worth South | D.R. Horton | Fort Worth, TX, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605831&lang=en) |
+| Sales Representative- Sussex County, DE | D.R. Horton | Smyrna, DE, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605827&lang=en) |
+| Twin Cities Metro Junior Sales Representative | D.R. Horton | Lakeville, MN, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2604923&lang=en) |
+| Hybrid Sales Representative - Southwest | amplity | 5 Locations |  | 2026-11-20 | [Apply](https://amplity.wd1.myworkdayjobs.com/en-US/amplityhealth/job/Remote---Texas/Hybrid-Sales-Representative----Southwest_R6308) |
+| Territory Manager - Channel Sales - Agri | aliaxis | IN AS - Silchar |  | 2026-11-20 | [Apply](https://aliaxis.wd3.myworkdayjobs.com/en-US/aliaxis/job/IN-AS---Silchar/Territory-Manager---Channel-Sales---Agri_R-59158) |
+| Membership Sales Desk Part Time | bjswholesaleclub | Clarence, NY #0142 |  | 2026-11-20 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Clarence-NY-0142/Membership-Sales-Desk-Part-Time_R263066) |
+| Membership Sales Desk Part Time | bjswholesaleclub | Clarence, NY #0142 |  | 2026-11-20 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Clarence-NY-0142/Membership-Sales-Desk-Part-Time_R263065) |
+| Business Development Representative (Chauffeur Partner) | wheely | New York, New York, United States |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/wheely/jobs/8210449003?gh_jid=8210449003) |
+| Senior Account Executive – Strategic Accounts (Net New), Manufacturing – Remote... | IFS | Itasca, Illinois, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/IFS1/744000162688935) |
+| Territory Manager (NJ) | instridehealth | Remote, NJ |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/instridehealth/jobs/4756913005) |
+| B2B Sales Representative (Legal Industry) Part-time / 21428 | getwingapp | United States |  | 2026-11-20 | [Apply](https://jobs.lever.co/getwingapp/53efdebe-8522-4671-b2b3-449b7a0601f4) |
+| Founders Associate (Business Development) | tacto | Chicago |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/tacto/2ae68899-272f-4c7a-980f-9b679fb16a19) |
 | Commission Sales - Women's Apparel - Town Center at Boca Raton | Nordstrom | Boca Raton, FL |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Boca-Raton-FL/Commission-Sales---Women-s-Apparel---Town-Center-at-Boca-Raton_R-899837) |
 | Commission Sales - Kids' Apparel & Shoes - Town Center at Boca Raton | Nordstrom | Boca Raton, FL |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Boca-Raton-FL/Commission-Sales---Kids--Apparel---Shoes---Town-Center-at-Boca-Raton_R-899838-1) |
 | SMB New Business Account Executive | Okta | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://www.okta.com/company/careers/opportunity/8404912?gh_jid=8404912) |
@@ -100,8 +112,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Service Sales Executive, HVAC Controls | carrier | 5 Locations |  | 2026-11-20 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/Florida-US-Remote/Service-Sales-Executive--HVAC-Controls_30222375-1) |
 | Sales Coordinator Manager – Longview | bmo | Irving, TX, USA |  | 2026-11-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Irving-TX-USA/Sales-Coordinator-Manager---Longview_R260032063) |
 | Membership Sales Ambassador Full Time | bjswholesaleclub | Tyler, TX #0262 |  | 2026-11-20 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Tyler-TX-0262/Membership-Sales-Ambassador-Full-Time_R258203) |
-| Membership Sales Ambassador Part Time | bjswholesaleclub | Tyler, TX #0262 |  | 2026-11-20 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Tyler-TX-0262/Membership-Sales-Ambassador-Part-Time_R258207) |
-| Tire Sales and Installation Part Time $1000 Sign on Bonus! | bjswholesaleclub | Bel Air, MD #0071 |  | 2026-11-20 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Bel-Air-MD-0071/Tire-Sales-and-Installation-Part-Time--1000-Sign-on-Bonus-_R261432) |
 | Samsung Field Sales Manager | 2020companies | Brandon, FL |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Brandon-FL/Samsung-Field-Sales-Manager_REQ_117131) |
 | Samsung Field Sales Manager - Bilingual | 2020companies | Miami, FL |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Miami-FL/Samsung-Field-Sales-Manager---Bilingual_REQ_117132) |
 | Samsung Field Sales Manager | 2020companies | Jacksonville, FL |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Jacksonville-FL/Samsung-Field-Sales-Manager_REQ_117134) |
@@ -112,13 +122,31 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Specialty Sales Team Leader (Sales and Merchandising) | Target | 4801 McKnight Rd Ste 3, Pittsburgh,PA 15237-3423 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4801-McKnight-Rd-Ste-3-PittsburghPA-15237-3423/Specialty-Sales-Team-Leader--Sales-and-Merchandising-_R0000481534) |
 | Account Executive Strategic | CVS Health | AZ - Work from home |  | 2026-11-20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Account-Executive-Strategic_R1094310-1) |
 | Part - Time - Beauty Sales - Le Labo - Houston Galleria | Nordstrom | Houston, TX |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Houston-TX/Part---Time---Beauty-Sales---Le-Labo---Houston-Galleria_R-862656) |
+| Lead Channel Sales Representative | Honeywell | San Jose, CA, United States |  | 2026-11-19 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162655) |
+| Territory Sales Leader- Mid-Atlantic | Rheem | NC, United States |  | 2026-11-19 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4554) |
+| Area Sales Leader - Mid-Atlantic | Rheem | NC, United States |  | 2026-11-19 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4553) |
+| Territory Sales Leader - Ohio | Rheem | OH, United States |  | 2026-11-19 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4542) |
+| Sr. Sales Representative | Intertek | Arlington Heights, IL, United States |  | 2026-11-19 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16328) |
+| Inside Sales Representative | Intertek | CA, United States |  | 2026-11-19 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16120) |
+| Associate Sales Representative-Orange County, CA/Denver, CO | CooperSurgical | United States |  | 2026-11-19 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13287) |
+| Summer 2027 Intern - Sales Grand Rapids | Blue Cross Blue Shield of Michigan | Grand Rapids, MI, United States |  | 2026-11-19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15034) |
+| January 2027 Sales Leadership Development Program (Memphis, TN, Jackson, MS, Bi... | Sherwin-Williams | Jackson, MS, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629664) |
+| Store Sales Representative - Orlando E, FL | Sherwin-Williams | Orlando, FL, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629656) |
+| Sales Representative - Automotive Finishes | Sherwin-Williams | Billings, MT, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611283) |
+| Inside Sales Representative, Channel | Vertiv | Columbus, OH, United States |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20287018) |
+| Technical Inside Sales Associate - Power & rPDU | Vertiv | Columbus, OH, United States |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20287015) |
+| Manager, Power Sales | Vertiv | Ashburn, VA, United States |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286928) |
+| Oracle NetSuite - Account Executive - Mid market - Business Services - East | Oracle | Nashville, TN, United States |  | 2026-11-19 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350995) |
+| Oracle NetSuite Mid-Market Account Executive - Healthcare, Hospitality, and Lif... | Oracle | Chicago, IL, United States |  | 2026-11-19 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350985) |
+| Oracle NetSuite Mid-Market Account Executive - Healthcare, Hospitality, and Lif... | Oracle | Chicago, IL, United States |  | 2026-11-19 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350984) |
+| Parts Counter Sales | Rueter and Zenor Company | Grand Junction, IA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680388) |
+| District Manager, Rental Sales | JA Riggs Tractor Company | Springdale, AR |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680732) |
+| Account Executive | Nsight Health | US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b5d414f1-c678-40aa-b82a-dc850387ea22&ccId=19000101_000001&jobId=576612&lang=en_US&source=CC2) |
+| Area Sales Manager | glsllc | East Houston, Texas |  | 2026-11-19 | [Apply](https://jobs.lever.co/glsllc/36e5708b-3896-4c02-a15d-4e3533378f64) |
 | Commercial Roofing Service Sales Representative | Tecta Zero Company | Cincinnati, OH, United States |  | 2026-11-19 | [Apply](https://jobs.jobvite.com/tecta/job/o0W8Afwo) |
 | REVELxp - Account Executive, UVA | Teall Sports & Entertainment | Charlottesville, VA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677752) |
 | Sales Representative | RNR Tire Express | Muskogee, OK |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679822) |
 | Residential Flooring Sales | Nonn's Flooring | New Berlin, WI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679227) |
-| Client Solutions Architect | Thrive | Woburn, Massachusetts, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/31FEFA27C2) |
-| Client Business Executive | Thrive | Great Neck, New York, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/043BA7D75C) |
-| Client Business Executive | Thrive | Washington, District of Columbia, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/58C15A9EDA) |
 | SMB Customer Account Executive | Okta | San Francisco, CA, United States |  | 2026-11-19 | [Apply](https://www.okta.com/company/careers/opportunity/8404911?gh_jid=8404911) |
 | Corporate Sales Representative | Martec International | United States |  | 2026-11-19 | [Apply](https://jobs.jobvite.com/roadequipment/job/oNN7Afw1) |
 | HVAC Sales Representative / Estimator | Altius Search Group | Clackamas, Oregon, United States |  | 2026-11-19 | [Apply](https://altiussearchgroup.recruitee.com/o/hvac-sales-representative-estimator) |
@@ -177,34 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Senior Account Executive (NY/LA) | tapcart | United States |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/tapcart/4b6cfaca-d183-4355-a6ed-fb2c7d8a866b) |
 | Director, Channel Sales | cleo | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/cleo/jobs/4756967005) |
 | Home Improvement Sales Representative | renuity | Tucson, AZ |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/renuity/1dcc48e4-8002-4c01-a4eb-3c2b884b02d8) |
-| Senior Account Executive, Digital Media/Content Strategy | bursonglobalcareers | United States |  | 2026-11-19 | [Apply](https://www.bursonglobal.com/careers/jobs?gh_jid=5490126008) |
-| SLED Partner Sales Director | boomilp | United States of America |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/boomilp/jobs/6265838004) |
-| Account Executive (Mid Market- SF) | LangChain | San Francisco, CA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/langchain/26b29c27-711c-4239-9c1d-90cb45e02aa0) |
-| Sales Development Representative - Outbound K12 | instructure | US-REMOTE |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/instructure/6bb3a2e2-204c-4207-b926-8014790d62ce) |
-| Business Development Representative | AlphabeInsightInc | Miami, FL, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162605078) |
-| Sales Representative | AlphabeInsightInc | Miami, FL, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162614819) |
-| Agency Partner Manager | further | Remote - East Coast |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/FURTHER/5dfbdadd-d716-4755-88dc-672fab02ae9e) |
-| Senior Partner Manager | further | Remote - East Coast |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/FURTHER/753a7256-fb26-4f15-aa61-56471074c015) |
-| Field Sales Representative (Washington) | equip | Remote - USA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/equip/41848ffe-82fb-4c19-a9d5-442ef88646d4) |
-| Field Sales Representative (South Jersey) | equip | Remote - USA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/equip/08559f77-22f8-47f6-b829-7e992f2cec4b) |
-| Revenue Enablement Manager | crusoe | Bellevue, WA - US |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/Crusoe/9dad2035-aa41-4a2a-93f6-833314753eb5) |
-| Founding Account Executive | clera | San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/Clera/fdfea90a-05dd-41c2-9120-326429e9302e) |
-| Outside Sales Development Representative | AMAROK | Arizona, Phoenix |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6266584004) |
-| Senior Manager of Sales | altentechnologyusa | Plano, TX |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5302646007) |
-| Regional Sales Director (U.S. Skilled) | alayacare | United States |  | 2026-11-19 | [Apply](https://alayacare.com/open-positions?gh_jid=8954082002) |
-| Commercial Account Executive | acilearning | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/acilearning/jobs/4515169009) |
-| Account Development Representative | ambiencehealthcare | Remote - US |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/ambiencehealthcare/fdc19715-1c33-4cd2-b18a-07b7969743d2) |
-| Sales Representative | 3dayblindssales | Foxborough, MA United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/3dayblindssales/jobs/8209705003) |
-| Junk Removal & On-Site Sales | 1800gotjunk | Riviera Beach, FL |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4515453009) |
-| Junk Removal & Field Sales | 1800gotjunk | Jacksonville, FL |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4515435009) |
-| Junk Removal Service & Sales | 1800gotjunk | Vinings, GA |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4515428009) |
-| Business Development Representative | Volanno | Remote Worker - N/A |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677864) |
-| Saddle Expert / Sales Representative- Tennessee (CWD) | CWD | Nashville, TN |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2988416) |
-| Saddle Expert / Sales Representative- Missouri (CWD) | CWD | St. Louis, MO |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677957) |
-| Screening Sales Representative - Summit County, CO | abbott | United States - Colorado - Denver |  | 2026-11-19 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Colorado---Denver/Screening-Sales-Representative---Summit-County--CO_31167798-2) |
-| Screening Sales Representative - Crown Point, IN | abbott | United States - Indiana - Gary |  | 2026-11-19 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Indiana---Gary/Screening-Sales-Representative---Crown-Point--IN_31167848-1) |
-| Sales Training and Readiness Program | rsli | 4 Locations |  | 2026-11-19 | [Apply](https://rsli.wd503.myworkdayjobs.com/en-US/rslijobs/job/Addison-TX/Sales-Training-and-Readiness-Program_R6972) |
-| Sales Training and Readiness Program - Central | rsli | 4 Locations |  | 2026-11-19 | [Apply](https://rsli.wd503.myworkdayjobs.com/en-US/rslijobs/job/Addison-TX/Sales-Training-and-Readiness-Program---Central_R6973) |
 <!-- JOBS_TABLE_END -->
 
 <details>
