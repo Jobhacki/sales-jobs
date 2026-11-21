@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>34,080</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>34,104</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 16:17 UTC</sub>
+<sub>Snapshot 2026-11-21 20:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,21 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**34,080 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 16:17 UTC.** Apply links go to the employer's career page or hiring system.
+**34,104 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 20:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Salesperson | advanceauto | 1002 N Breazeale Ave, Mount Olive, NC 28365 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1002-N-Breazeale-Ave-Mount-Olive-NC-28365/Salesperson_R-0620306) |
+| Salesperson | advanceauto | 1002 N Breazeale Ave, Mount Olive, NC 28365 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1002-N-Breazeale-Ave-Mount-Olive-NC-28365/Salesperson_R-0620307) |
+| Manager, Solutions Architect | Together AI | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5300653007) |
+| Enterprise Account Executive - (Great Lakes) | sonatype | US - Central - Remote |  | 2026-11-21 | [Apply](https://jobs.lever.co/sonatype/02e23bf6-8012-4784-aee8-c444ec8ad315) |
+| Manager, Enterprise Sales / HCLS | jamf | Austin, TX; Eau Claire, WI; Minneapolis, MN |  | 2026-11-21 | [Apply](https://www.jamf.com/about/careers/jobs/?gh_jid=6268061004&gh_jid=6268061004) |
+| Associate Strategic Accounts Manager - Coatings | Carlisle Companies | Akron, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Carlisle/3743990017022705) |
+| Account Executive | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/2d26ec58-c77a-42ac-9171-f1ff8a0ef004) |
+| Sales Development Representative | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/0f42f168-438f-4a90-864b-bbc3d4d41783) |
+| Senior Account Executive, Services & Industries | Adyen | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8408480) |
 | Salesperson | advanceauto | 3440 S Florida Ave, Lakeland, FL 33803 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3440-S-Florida-Ave-Lakeland-FL-33803/Salesperson_R-0620072) |
-| Salesperson | advanceauto | 3737 Boiling Springs Rd, Spartanburg, SC 29316 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3737-Boiling-Springs-Rd-Spartanburg-SC-29316/Salesperson_R-0619509) |
-| Bilingual Sales Person | advanceauto | 1544 S Girls School Rd, Indianapolis, IN 46231 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1544-S-Girls-School-Rd-Indianapolis-IN-46231/Bilingual-Sales-Person_R-0620057) |
 | Sales Development Representative (US Market) - Remote, US | oakslab | United States |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/oakslab/cd1c342c-4d65-4420-9498-8e3f22268d53) |
 | Senior Account Executive, Services & Industries | Adyen | New York |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8192010) |
 | Account Executive | snapmobileinc | St. Cloud, MN |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006) |
@@ -114,9 +121,13 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
-| Outside Sales - Charleston, SC | ADP employer 0f233f58 | North Charleston, SC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0f233f58-65c3-4fa4-89d6-df01635478f2&ccId=19000101_000001&jobId=641710&lang=en_US&source=CC2) |
-| Lead Sales | ADP employer 0bc8dfa8 | Midland Illinois , Midland, TX, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bc8dfa8-d528-45ff-8523-ce4f0102ab7f&ccId=19000101_000001&jobId=471474&lang=en_US&source=CC2) |
-| Account Executive I - 1096 (Remote) | economicmodeling | Remote (Work From Home) US |  | 2026-11-20 | [Apply](https://jobs.lever.co/economicmodeling/7e7de256-223c-4e74-9a39-33935ee9a249) |
+| Hyundai Salesperson | Kendall Dealership Holdings LLC | Vancouver, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684242) |
+| Manager, Sales Administration | BOMAG AMERICAS INC | Ridgeway, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684139) |
+| Heavy Duty Inside Parts Sales Specialist | Blaine Bros Maintenance Inc | Inver Grove Heights, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682573) |
+| New and Used Truck Salesperson | Hunter Truck | Scranton, PA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2615aa25-dfd2-403c-9ef4-06996bbe6096&ccId=19000101_000001&jobId=555247&lang=en_US&source=CC2) |
+| Parts Sales Manager | Hunter Truck | Colchester, VT, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2615aa25-dfd2-403c-9ef4-06996bbe6096&ccId=19000101_000001&jobId=570863&lang=en_US&source=CC2) |
+| Lot Porter Sales and Service | Campers Inn RV and | Campers Inn RV of Phoenix Inc, Phoenix, AZ, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a4baf7a-1837-4d5b-a378-2e0865aece76&ccId=19000101_000001&jobId=609089&lang=en_US&source=CC2) |
+| Home Services Held Revenue Representative | imh | Home Services - Salt Lake City |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Home-Services---Salt-Lake-City/Home-Services-Held-Revenue-Representative_R185354) |
 | Summer 2027 Sales Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605870&lang=en) |
 | Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Credit Card Sales Advisor | Citizens Financial Group | United States |  | 2026-11-20 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50370) |
@@ -144,6 +155,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Account Representative - Industrial Water Treatment | VeoliaEnvironnementSA | Cedar Rapids, IA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162817139) |
 | Sales Account Executive | TheWonderfulCompany | Delano, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162824189) |
 | Sales Account Executive (Delano, CA) | TheWonderfulCompany | Bakersfield, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162824579) |
+| Head of Advertising Business Development, New York | Spotify | New York, NY |  | 2026-11-20 | [Apply](https://jobs.lever.co/spotify/a2f4ff98-1cdc-4529-a202-4119acfa722b) |
 | Account Executive - Expansion | zonecompanysoftwareconsultingllc | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/zonecompanysoftwareconsultingllc/jobs/5484903008) |
 | Account Executive (Enterprise) | yoodliinc | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/yoodliinc/jobs/4517776009) |
 | Territory Sales Rep- Facades | SikaAG | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000162813040) |
@@ -170,6 +182,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | H&M Sales Advisor - Tanger Outlets, North Charleston | H&M Group | North Charleston, SC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162813849) |
 | Regional Account Executive - Prenatal (Upper West) | genedx | Remote |  | 2026-11-20 | [Apply](https://genedx.com/careers/openings?gh_jid=4757429005) |
 | Director, Sales Strategy & Operations | ethoslife | Remote US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ethoslife/jobs/8922155002) |
+| Environmental Compliance Client Manager | foth | Jacksonville, Florida |  | 2026-11-20 | [Apply](https://jobs.lever.co/foth/d5337765-4abc-491f-a724-c1d1c938938d) |
 | Inside Sales Representative | coolwillys | 1435 S. Euclid Ave, Tucson AZ 85713 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/coolwillys/jobs/4517694009) |
 | CNS/Neuroscience, ADHD Territory Sales Representative - Raleigh South NC | collegiumpharma | Raleigh, NC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/collegiumpharma/jobs/4730971006) |
 | Director of Sales | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017015816) |
@@ -192,19 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Account Executive - Commercial, LATAM America | Kong | Texas, United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/kong/fa3aecc8-d182-4eb2-895b-f7b9b1ade1db) |
 | Sales Representative - Inland Empire CA | axogen | San Bernardino, California, United States |  | 2026-11-20 | [Apply](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8946010002) |
 | Account Executive | hoxhunt | Minneapolis, USA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/hoxhunt/0fd0bb3f-f036-4edb-a123-3b9305d6d65b) |
-| Account Executive - SLED | avepoint | California, United States |  | 2026-11-20 | [Apply](https://www.avepoint.com/careers/job-detail?gh_jid=8407276) |
-| Account Executive - SLED | avepoint | Los Angeles, CA, United States |  | 2026-11-20 | [Apply](https://www.avepoint.com/careers/job-detail?gh_jid=8407263) |
-| Business Development Representative | givebutter | Saint Lucia |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/givebutter/104c38e2-1a61-407f-b4a4-020a61f72f8b) |
-| Sales Development Representative | fundwell | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/fundwell/9c0f1fbe-ecc3-45d6-b7fb-adf1cccb5329) |
-| Mid Market Account Executive (Manufacturing) | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4757524005) |
-| Enterprise Account Executive (Manufacturing) | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4757523005) |
-| GTM Strategy & Operations Business Partner | Anthropic | San Francisco, CA / New York City, NY / Washington, DC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5485591008) |
-| Clinical Account Executive - Oncology- Grand Rapids, MI | AbbVie | Grand Rapids, MI, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017017356) |
-| Business Development Representative - Commercial | acilearning | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/acilearning/jobs/4517550009) |
-| Inside Sales | accreditedlabs | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accreditedlabs/jobs/4517828009) |
-| Account Executive | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397384) |
-| Account Director | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397335) |
-| Regional Sales Manager (WET) | Biotage | Charlotte, United States |  | 2026-11-20 | [Apply](https://biotage-1708019070.teamtailor.com/jobs/8776613-regional-sales-manager-wet) |
 <!-- JOBS_TABLE_END -->
 
 <details>
