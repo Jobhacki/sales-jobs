@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>33,975</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>34,080</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 12:17 UTC</sub>
+<sub>Snapshot 2026-11-21 16:17 UTC</sub>
 
 </div>
 
@@ -50,16 +50,16 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**33,975 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 12:17 UTC.** Apply links go to the employer's career page or hiring system.
+**34,080 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 16:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| In Home Sales Specialist | Power Dry | COLUMBUS, OH - PD, Lewis Center, OH, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=575988&lang=en_US&source=CC2) |
-| Salesperson | advanceauto | 129 E Pine Log Rd, Aiken, SC 29803 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/129-E-Pine-Log-Rd-Aiken-SC-29803/Salesperson_R-0620143) |
-| Sr. Sales Director, Health Systems (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/5408e5ed-80d8-44c6-87de-3843feb059cf) |
-| Sr. Sales Director - Large Accounts (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/b67560b2-e6d1-4c7f-b4b8-eaca7384abc3) |
-| Sales Director - Mid-Market (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/401b3fff-8025-4884-8b64-6e25e3560d2e) |
+| Salesperson | advanceauto | 3440 S Florida Ave, Lakeland, FL 33803 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3440-S-Florida-Ave-Lakeland-FL-33803/Salesperson_R-0620072) |
+| Salesperson | advanceauto | 3737 Boiling Springs Rd, Spartanburg, SC 29316 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3737-Boiling-Springs-Rd-Spartanburg-SC-29316/Salesperson_R-0619509) |
+| Bilingual Sales Person | advanceauto | 1544 S Girls School Rd, Indianapolis, IN 46231 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1544-S-Girls-School-Rd-Indianapolis-IN-46231/Bilingual-Sales-Person_R-0620057) |
+| Sales Development Representative (US Market) - Remote, US | oakslab | United States |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/oakslab/cd1c342c-4d65-4420-9498-8e3f22268d53) |
+| Senior Account Executive, Services & Industries | Adyen | New York |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8192010) |
 | Account Executive | snapmobileinc | St. Cloud, MN |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Cincinnati, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952299) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Detroit, Michigan, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952339) |
@@ -75,8 +75,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Sales Manager, Expansion | nooks | United States (Any Time Zone) |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/nooks/31d0c938-c681-4d2d-89a2-90fc946ed8f9) |
 | Expansion Account Executive, Commercial | nooks | United States (Any Time Zone) |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/nooks/015975f0-302e-4415-a42f-dc4e790e47b2) |
 | Public Sector Account Executive | clickhouse | Washington D.C. |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/clickhouse/7cc69253-b0e2-4ca4-bb13-d3f0ccb7be93) |
-| Salesperson | advanceauto | 3003 S Federal Hwy, Delray Beach, FL 33483 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3003-S-Federal-Hwy-Delray-Beach-FL-33483/Salesperson_R-0620248) |
-| Salesperson | advanceauto | 1340 Old Gallatin Rd, Scottsville, KY 42164 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1340-Old-Gallatin-Rd-Scottsville-KY-42164/Salesperson_R-0620251) |
 | Sales Representative - Michigan Region | thgrp | Remote |  | 2026-11-21 | [Apply](https://thgrp.wd12.myworkdayjobs.com/en-US/heritageconstructionmaterials/job/Remote/Sales-Representative---Michigan-Region_R-1871) |
 | VP, Sales Operations | risepoint | US - Remote |  | 2026-11-21 | [Apply](https://risepoint.wd503.myworkdayjobs.com/en-US/risepoint/job/US---Remote/VP--Sales-Operations_JR101391) |
 | Director, Business Development - East Coast Based | evotecgroup | 8 Locations |  | 2026-11-21 | [Apply](https://evotecgroup.wd3.myworkdayjobs.com/en-US/evotec_career_site/job/Seattle-WA/Director--Business-Development---East-Coast-Based_JOBID-15333-1) |
@@ -116,6 +114,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Outside Sales - Charleston, SC | ADP employer 0f233f58 | North Charleston, SC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0f233f58-65c3-4fa4-89d6-df01635478f2&ccId=19000101_000001&jobId=641710&lang=en_US&source=CC2) |
+| Lead Sales | ADP employer 0bc8dfa8 | Midland Illinois , Midland, TX, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bc8dfa8-d528-45ff-8523-ce4f0102ab7f&ccId=19000101_000001&jobId=471474&lang=en_US&source=CC2) |
+| Account Executive I - 1096 (Remote) | economicmodeling | Remote (Work From Home) US |  | 2026-11-20 | [Apply](https://jobs.lever.co/economicmodeling/7e7de256-223c-4e74-9a39-33935ee9a249) |
 | Summer 2027 Sales Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605870&lang=en) |
 | Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Credit Card Sales Advisor | Citizens Financial Group | United States |  | 2026-11-20 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50370) |
@@ -128,8 +129,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Mortgage Origination Sales Manager | Union Bank | Williston, VT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654896) |
 | Regional Sales Manager, Northeastern U.S. | Nemco Food Equipment LTD | Remote Worker - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682877) |
 | Service to Sales Manager | NISSAN | MARIETTA, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674791) |
-| Outside Sales Representative | Power Dry | BOUND BROOK, NJ, Bridgewater, NJ, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=575959&lang=en_US&source=CC2) |
-| Branch & Business Development Manager | MVSB | Concord, NH, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07372372-77a5-45e9-8573-f67327c3c3ec&ccId=19000101_000001&jobId=571750&lang=en_US&source=CC2) |
 | Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826) |
 | Account Executive | Multiply | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/multiplyai/d253ceba-edc4-4727-bae6-3bd1165a7c79) |
 | Senior Business Development Executive, Regional Outside Sales | DeWolff, Boberg & Associates | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/dewolff-boberg-associates/job/oub8Afw7) |
@@ -205,6 +204,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Inside Sales | accreditedlabs | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accreditedlabs/jobs/4517828009) |
 | Account Executive | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397384) |
 | Account Director | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397335) |
+| Regional Sales Manager (WET) | Biotage | Charlotte, United States |  | 2026-11-20 | [Apply](https://biotage-1708019070.teamtailor.com/jobs/8776613-regional-sales-manager-wet) |
 <!-- JOBS_TABLE_END -->
 
 <details>
