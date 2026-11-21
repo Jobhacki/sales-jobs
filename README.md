@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-sales-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-sales-jobs-light.svg"><img alt="Sales jobs: JobHacki job list, last updated on Nov 20, 2026" src="assets/dist/hero-sales-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-sales-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-sales-jobs-light.svg"><img alt="Sales jobs: JobHacki job list, last updated on Nov 21, 2026" src="assets/dist/hero-sales-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>34,874</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>35,226</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 20:17 UTC</sub>
+<sub>Snapshot 2026-11-21 00:17 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-SDRs, account executives and sales leaders, explore a fresh slice of sales jobs taken from employers' own hiring systems. Updated Nov 20, 2026.
+SDRs, account executives and sales leaders, explore a fresh slice of sales jobs taken from employers' own hiring systems. Updated Nov 21, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,19 +50,135 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**34,874 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 20:17 UTC.** Apply links go to the employer's career page or hiring system.
+**35,226 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 00:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Salesperson | advanceauto | 3003 S Federal Hwy, Delray Beach, FL 33483 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3003-S-Federal-Hwy-Delray-Beach-FL-33483/Salesperson_R-0620248) |
+| Salesperson | advanceauto | 1340 Old Gallatin Rd, Scottsville, KY 42164 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1340-Old-Gallatin-Rd-Scottsville-KY-42164/Salesperson_R-0620251) |
+| Salesperson | advanceauto | 88 Susquehanna Blvd, West Hazleton, PA 18202 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/88-Susquehanna-Blvd-West-Hazleton-PA-18202/Salesperson_R-0620252) |
+| Sales Representative - Michigan Region | thgrp | Remote |  | 2026-11-21 | [Apply](https://thgrp.wd12.myworkdayjobs.com/en-US/heritageconstructionmaterials/job/Remote/Sales-Representative---Michigan-Region_R-1871) |
+| VP, Sales Operations | risepoint | US - Remote |  | 2026-11-21 | [Apply](https://risepoint.wd503.myworkdayjobs.com/en-US/risepoint/job/US---Remote/VP--Sales-Operations_JR101391) |
+| Director, Business Development - East Coast Based | evotecgroup | 8 Locations |  | 2026-11-21 | [Apply](https://evotecgroup.wd3.myworkdayjobs.com/en-US/evotec_career_site/job/Seattle-WA/Director--Business-Development---East-Coast-Based_JOBID-15333-1) |
+| Senior Solution Sales Executive - Capital Markets - Law Firms | workiva | USA - Remote |  | 2026-11-21 | [Apply](https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Senior-Solution-Sales-Executive---Capital-Markets---Law-Firms_R12854) |
+| Manager, Revenue Management | breakthru | 2 Locations |  | 2026-11-21 | [Apply](https://breakthru.wd5.myworkdayjobs.com/en-US/bbg-us/job/Tampa-FL-USA/Manager--Revenue-Management_R0044670) |
+| Specifications Manager, Sales | aliaxis | 4 Locations |  | 2026-11-21 | [Apply](https://aliaxis.wd3.myworkdayjobs.com/en-US/aliaxis/job/US---Lynchburg-2---Office/Specifications-Manager--Sales_R-59305-1) |
+| Senior Account Executive, Managed Care | bbinsurance | Remote - Minnesota |  | 2026-11-21 | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Remote---Minnesota/Senior-Account-Executive--Managed-Care_R26_0000004054) |
+| Licensed Insurance Sales Representative (Remote / Home-Based) | allstate | AZ - Phoenix |  | 2026-11-21 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/AZ---Phoenix/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37253) |
+| Territory Sales Manager (Columbus, OH) | allstate | USA - OH (Remote) |  | 2026-11-21 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---OH-Remote/Territory-Sales-Manager--Columbus--OH-_R37250-1) |
+| Sales Market Leader - Michigan | allstate | USA - MI (Remote) |  | 2026-11-21 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---MI-Remote/Sales-Market-Leader---Michigan_R37060) |
+| Sales Director | arcis | TPC River's Bend - Maineville, OH |  | 2026-11-21 | [Apply](https://arcis.wd12.myworkdayjobs.com/en-US/extna/job/TPC-Rivers-Bend---Maineville-OH/Sales-Director_R17679) |
+| Sales Business Retention Representative | wk | 2 Locations |  | 2026-11-21 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Columbus-OH/Sales-Business-Retention-Representative_R0061301-3) |
+| Field Sales Performance Manager-North Region | baxter | 6 Locations |  | 2026-11-21 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/New-York-remote/Field-Sales-Performance-Manager-North-Region_JR-207836) |
+| Field Sales Performance Manager-Central Region | baxter | 7 Locations |  | 2026-11-21 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Illinois-remote/Field-Sales-Performance-Manager-Central-Region_JR-207609-1) |
+| Sales Specialist | baxter | Guaynabo, Puerto Rico |  | 2026-11-21 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Guaynabo-Puerto-Rico/Sales-Specialist_JR-208181) |
+| Seasonal Rental Sales Agent - FT | avisbudget | Southwest Florida International Airport |  | 2026-11-21 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/en-US/abg_careers/job/Southwest-Florida-International-Airport/Seasonal-Rental-Sales-Agent---FT_R0184130) |
+| Senior Sales Ambassador - Core Lab Diagnostics - New York Metro | abbott | United States - New York - Remote |  | 2026-11-21 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---New-York---Remote/Senior-Sales-Ambassador---Core-Lab-Diagnostics---New-York-Metro_31167819) |
+| Screening Sales Representative - Marion, IN | abbott | 2 Locations |  | 2026-11-21 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Illinois---Marion/Screening-Sales-Representative---Marion--IN_31167717) |
+| Screening Sales Representative - Salisbury, NC | abbott | United States - North Carolina - Salisbury |  | 2026-11-21 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---North-Carolina---Salisbury/Screening-Sales-Representative---Salisbury--NC_31167720-1) |
+| Licensed Virtual Sales Representative Hiring Event | wynd | Orlando area |  | 2026-11-21 | [Apply](https://wynd.wd5.myworkdayjobs.com/en-US/external/job/Orlando-area/Licensed-Virtual-Sales-Representative-Hiring-Event_R-132231) |
+| Desert Blue Combo Sales Manager - Las Vegas | wynd | Las Vegas area |  | 2026-11-21 | [Apply](https://wynd.wd5.myworkdayjobs.com/en-US/external/job/Las-Vegas-area/Desert-Blue-Combo-Sales-Manager---Las-Vegas_R-132238) |
+| Chat Support Sales Representative (In-Center) | att | Richardson, Texas |  | 2026-11-21 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Richardson-Texas/Chat-Support-Sales-Representative--In-Center-_R-129354) |
+| Technical Sales I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032666) |
+| Field Sales I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Field-Sales-I--Intern----United-States_2032668) |
+| Commercial HVAC Solutions Sales Specialist - New Jersey | carrier | CAN14: CCS-Fairfield, 100 Delawanna Avenue, Clifton, NJ, 07014 USA |  | 2026-11-21 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN14-CCS-Fairfield-100-Delawanna-Avenue-Clifton-NJ-07014-USA/Commercial-HVAC-Solutions-Sales-Specialist---New-Jersey_30213244) |
+| Area Sales Manager - Boston Equipment | carrier | CAM04: CSS-Canton, 95 Shawmut Road, Canton, MA, 02021 USA |  | 2026-11-21 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAM04-CSS-Canton-95-Shawmut-Road-Canton-MA-02021-USA/Area-Sales-Manager---Boston-Equipment_30207870) |
+| Client Executive Business Sales | verizon | Tampa, Florida |  | 2026-11-21 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Tampa-Florida/Client-Executive-Business-Sales_R-1104193-1) |
+| Client Executive Business Sales | verizon | Pomona, California |  | 2026-11-21 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Pomona-California/Client-Executive-Business-Sales_R-1104185-1) |
+| Client Executive Business Sales | verizon | Bristol, Connecticut |  | 2026-11-21 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Bristol-Connecticut/Client-Executive-Business-Sales_R-1104200-1) |
+| HP Retail Sales Representative | 2020companies | Reading, PA |  | 2026-11-21 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Reading-PA/HP-Retail-Sales-Representative_REQ_117170) |
+| HP Retail Sales Representative | 2020companies | Spokane, WA |  | 2026-11-21 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Spokane-WA/HP-Retail-Sales-Representative_REQ_117171) |
+| HP Retail Sales Representative | 2020companies | Albany, NY |  | 2026-11-21 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Albany-NY/HP-Retail-Sales-Representative_REQ_117181) |
+| Associate Partner Manager, Emerging Sales - Walmart Connect (Bentonville, AR) | Walmart | Bentonville, AR |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Associate-Partner-Manager--Emerging-Sales---Walmart-Connect--Bentonville--AR-_R-2717450) |
+| Associate Partner Manager, Emerging Sales - Walmart Connect (Los Angeles, CA) | Walmart | Los Angeles, CA |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Los-Angeles-CA/Associate-Partner-Manager--Emerging-Sales---Walmart-Connect--Los-Angeles--CA-_R-2717420) |
+| Associate Partner Manager, Emerging Sales - Walmart Connect (Hoboken, NJ) | Walmart | Hoboken, NJ |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Hoboken-NJ/Associate-Partner-Manager--Emerging-Sales---Walmart-Connect--Hoboken--NJ-_R-2717396) |
+| Medium Enterprise / Account Executive - Nonprofit | Workday | USA, NY, New York City |  | 2026-11-21 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Medium-Enterprise---Account-Executive---Nonprofit_JR-0111577) |
+| Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
+| Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
+| Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Seasonal & Regular Commission Sales - Shoes - Stonebriar Centre | Nordstrom | Frisco, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Frisco-TX/Seasonal---Regular-Commission-Sales---Shoes---Stonebriar-Centre_R-898415) |
+| Sales Representative - Bismarck, ND | American Waterworks | Fargo, ND |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668737) |
+| Sales Representative - Fargo, ND | American Waterworks | Fargo, ND |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668712) |
+| Senior Sales Executive (Northern California / PNW) | Centegix | Remote Worker - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4655775) |
+| Senior Sales Executive (TX, OK, & KS) | Centegix | Remote Worker - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4655713) |
+| Senior Sales Executive (Northeast) | Centegix | Remote Worker - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4664871) |
+| Head of Revenue Operations | Clearstory | Walnut Creek, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/6B7B5EFB9E) |
+| Business Development Manager | Clearsite Industrial Services | Philadelphia, Pennsylvania, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C263BBE387) |
+| Account Representative - Industrial Water Treatment | VeoliaEnvironnementSA | Cedar Rapids, IA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162817139) |
+| Sales Account Executive | TheWonderfulCompany | Delano, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162824189) |
+| Sales Account Executive (Delano, CA) | TheWonderfulCompany | Bakersfield, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162824579) |
+| Field Sales Merchandiser - Wonderful Pistachios, POM Wonderful, Halos Citrus | TheWonderfulCompany | Toledo, OH, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162831059) |
+| Head of Advertising Business Development, New York | Spotify | New York, NY |  | 2026-11-20 | [Apply](https://jobs.lever.co/spotify/a2f4ff98-1cdc-4529-a202-4119acfa722b) |
+| Account Executive - Expansion | zonecompanysoftwareconsultingllc | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/zonecompanysoftwareconsultingllc/jobs/5484903008) |
+| Account Executive (Enterprise) | yoodliinc | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/yoodliinc/jobs/4517776009) |
+| Territory Sales Rep- Facades | SikaAG | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000162813040) |
+| Business Development Representative | trinitylogistics | Orlando, FL |  | 2026-11-20 | [Apply](https://trinitylogistics.com/join-us/job/?gh_jid=8957234002) |
+| Regional Vice President of Sales - West | tines | United States - West (Remote) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tines/jobs/6267891004) |
+| Cyber Enterprise Account Exec | ServiceNow | Chicago, ILLINOIS, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162815689) |
+| Sr Mgr, Sales, Cyber | ServiceNow | Atlanta, GEORGIA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162814887) |
+| Cyber Enterprise Account Exec | ServiceNow | New York, NEW YORK, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162815167) |
+| Director of Revenue Operations - Sales | shopmy | New York, NY |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5491431008) |
+| Senior Major Sales Account Executive | Sharp Electronics | Downers Grove, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4517490009) |
+| Sales Trainee - Brooklyn, NY | RedBull | New York, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162831178) |
+| Enterprise Account Executive - Florida | saltsecurity | Tampa, Orlando, Miami |  | 2026-11-20 | [Apply](https://salt.security/job-board?gh_jid=5304065007) |
+| Sales Development Representative | raptortechnologies | Remote - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/raptortechnologies/jobs/5491419008) |
+| Enterprise Account Executive - Travel & Hospitality | qualtrics | United States (Remote) |  | 2026-11-20 | [Apply](https://www.qualtrics.com/careers/us/en/job/8238302?gh_jid=8238302) |
+| Founding Account Executive | pilothq | San Francisco, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pilothq/jobs/8953443002) |
+| Business Development Representative (BDR) Manager | parachutehealth | U.S. Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/parachutehealth/jobs/5304056007) |
+| Senior Account Executive, Arts & Culture | orchestra | New York, N.Y. |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/orchestra/jobs/8950014002) |
+| Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162833199) |
+| Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162832476) |
+| Parts Counter Sales | meriton | Phoenix, AZ |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/meriton/jobs/5491335008) |
+| Sales Specialist | lucidmotors | McLean, VA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5304320007?gh_jid=5304320007) |
+| Director, Platform Sales (Apply for Future Openings) | leagueinc | United States (Remote) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/leagueinc/jobs/6268034004) |
+| Area Sales Manager | Intuitive | Long Island, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162822980) |
+| Area Sales Manager | Intuitive | New York, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162823159) |
+| Vice President, Fintech Field Sales | intermexwiretransfer | Miami, FL |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/intermexwiretransfer/jobs/4731363006) |
+| Account Executive | horacemannservicecorporation | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6262771004) |
+| H&M Sales Advisor - Tanger Outlets, North Charleston | H&M Group | North Charleston, SC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162813849) |
+| Regional Account Executive - Prenatal (Upper West) | genedx | Remote |  | 2026-11-20 | [Apply](https://genedx.com/careers/openings?gh_jid=4757429005) |
+| Director, Sales Strategy & Operations | ethoslife | Remote US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ethoslife/jobs/8922155002) |
+| Environmental Compliance Client Manager | foth | Jacksonville, Florida |  | 2026-11-20 | [Apply](https://jobs.lever.co/foth/d5337765-4abc-491f-a724-c1d1c938938d) |
+| Inside Sales Representative | coolwillys | 1435 S. Euclid Ave, Tucson AZ 85713 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/coolwillys/jobs/4517694009) |
+| CNS/Neuroscience, ADHD Territory Sales Representative - Raleigh South NC | collegiumpharma | Raleigh, NC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/collegiumpharma/jobs/4730971006) |
+| Director of Sales | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017015816) |
+| Senior Business Development Manager- Remote | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017015866) |
+| Account Executive | squint.ai | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/squint.ai/af3b0951-fffc-4e2d-bc17-d823b4ec65a4) |
+| Provider Account Executive - Therapy | rula | Remote - United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/rula/ed0fdad9-19c2-442a-a65c-d1120bf6e1e4) |
+| Provider Account Executive - Psych | rula | Remote - United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/rula/d98fd42b-087b-4e5e-863c-fbd088585788) |
+| Partner Development Representative / Franchise | ramp | New York, NY (HQ) |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ramp/f2495eb1-ca1c-48ee-bdac-d50b0c8c0d16) |
+| Regional Sales Manager (Ohio) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/1877ad75-3eef-4c15-bfaf-022796a3d200) |
+| Regional Sales Manager (Carolinas) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/93932f72-1c3a-46af-9121-01ee0bf8fcd3) |
+| Regional Sales Manager (New York) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/ab4fb552-5f30-451b-989a-197224a00fcb) |
+| Regional Sales Director, Legal | perplexity | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Perplexity/179dfb70-1190-4e92-9f9a-a63218d36ca4) |
+| Director of Business Development (Minnesota Market) | bluestone | Minneapolis/St. Paul Metro Area |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512524009) |
+| Director of Business Development - Wisconsin Market | bluestone | Milwaukee, WI |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512521009) |
+| Senior Living Relationship Manager | bluestone | Milwaukee, WI |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512447009) |
+| Product Solutions Manager | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/357f7397-65c7-4b36-90b7-29db5fbd385f) |
+| Enterprise Account Executive (Northeast) | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/10a38035-9735-4b7c-9db1-e973daaf2380) |
+| Regional Sales Manager | bigid | New York City |  | 2026-11-20 | [Apply](https://bigid.com/company/careers/job-details/8957355002?gh_jid=8957355002) |
+| Enterprise Account Executive II | leandata | Santa Clara |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/LeanData/adfd90ba-7d76-4ad7-a59c-f4cf8d69fd74) |
+| Account Executive - Commercial, LATAM America | Kong | Texas, United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/kong/fa3aecc8-d182-4eb2-895b-f7b9b1ade1db) |
+| Sales Representative - Inland Empire CA | axogen | San Bernardino, California, United States |  | 2026-11-20 | [Apply](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8946010002) |
+| Account Executive | hoxhunt | Minneapolis, USA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/hoxhunt/0fd0bb3f-f036-4edb-a123-3b9305d6d65b) |
+| Account Executive - SLED | avepoint | California, United States |  | 2026-11-20 | [Apply](https://www.avepoint.com/careers/job-detail?gh_jid=8407276) |
+| Account Executive - SLED | avepoint | Los Angeles, CA, United States |  | 2026-11-20 | [Apply](https://www.avepoint.com/careers/job-detail?gh_jid=8407263) |
+| Business Development Representative | givebutter | Saint Lucia |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/givebutter/104c38e2-1a61-407f-b4a4-020a61f72f8b) |
+| Sales Development Representative | fundwell | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/fundwell/9c0f1fbe-ecc3-45d6-b7fb-adf1cccb5329) |
+| Mid Market Account Executive (Manufacturing) | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4757524005) |
+| Enterprise Account Executive (Manufacturing) | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4757523005) |
+| GTM Strategy & Operations Business Partner | Anthropic | San Francisco, CA / New York City, NY / Washington, DC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5485591008) |
+| Clinical Account Executive - Oncology- Grand Rapids, MI | AbbVie | Grand Rapids, MI, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017017356) |
+| Business Development Representative - Commercial | acilearning | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/acilearning/jobs/4517550009) |
+| Inside Sales | accreditedlabs | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accreditedlabs/jobs/4517828009) |
+| Account Executive | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397384) |
+| Account Director | accela | Remote Based - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/accela/jobs/8397335) |
 | Regional Sales Manager (WET) | Biotage | Charlotte, United States |  | 2026-11-20 | [Apply](https://biotage-1708019070.teamtailor.com/jobs/8776613-regional-sales-manager-wet) |
 | Software Product Management Pre Sales Senior Manager - Health & Human Services... | accenture |  |  | 2026-11-20 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Seattle-1191-2nd-Avenue-Corp/Software-Product-Management-Pre-Sales-Senior-Manager---Health---Human-Services-Software_R00373473) |
 | Ad Sales Representative – Direct Advertiser Partner Manager | accenture |  |  | 2026-11-20 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Atlanta-3565-Piedmont-Rd-NE-ACN-Ops/Ad-Sales-Representative---Direct-Advertiser-Partner-Manager_R00374047) |
 | Inside Sales Representative | avnet | Richfield, Ohio, United States Of America |  | 2026-11-20 | [Apply](https://avnet.wd1.myworkdayjobs.com/en-US/external/job/Richfield-Ohio-United-States-Of-America/Inside-Sales-Representative_JR-025040) |
 | Business Development Manager – Embedded Compute Modules – Western US/Canada | avnet | Tempe, Arizona, United States Of America |  | 2026-11-20 | [Apply](https://avnet.wd1.myworkdayjobs.com/en-US/external/job/Tempe-Arizona-United-States-Of-America/Business-Development-Manager---Embedded-Compute-Modules---Western-US-Canada_JR-025039) |
-| Salesperson | advanceauto | 4304 Boydton Plank Rd, North Dinwiddie, VA 23803 |  | 2026-11-20 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/4304-Boydton-Plank-Rd-North-Dinwiddie-VA-23803/Salesperson_R-0620168) |
-| Salesperson | advanceauto | 2206 N Roxboro St, Durham, NC 27704 |  | 2026-11-20 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/2206-N-Roxboro-St-Durham-NC-27704/Salesperson_R-0620167) |
-| Salesperson | advanceauto | 518 South Ave, Tallmadge, OH 44278 |  | 2026-11-20 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/518-South-Ave-Tallmadge-OH-44278/Salesperson_R-0620202) |
 | Life Sciences Technical Sales Internship - Cellular and Molecular Research | agilent | 2 Locations |  | 2026-11-20 | [Apply](https://agilent.wd5.myworkdayjobs.com/en-US/agilent_student_careers/job/US-VT-Remote-Location/Life-Sciences-Technical-Sales-Internship---Cellular-and-Molecular-Research_4040571) |
 | AI Solutions Sales Specialist | automationanywhere | USA - Remote |  | 2026-11-20 | [Apply](https://automationanywhere.wd5.myworkdayjobs.com/en-US/automationanywherejobs/job/USA---Remote/AI-Solutions-Sales-Specialist_JR1572) |
 | Revenue Manager | choicehotels | Field/Remote |  | 2026-11-20 | [Apply](https://choicehotels.wd5.myworkdayjobs.com/en-US/external/job/FieldRemote/Revenue-Manager_R22744) |
@@ -88,123 +204,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Counter Sales Representative | airliquidehr | Pacoima, CA - Retail shop |  | 2026-11-20 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/en-US/airgasexternalcareer/job/Pacoima-CA---Retail-shop/Counter-Sales-Representative_R10105260) |
 | New Business Development Representative | airliquidehr | 3 Locations |  | 2026-11-20 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/en-US/airgasexternalcareer/job/Huntsville-AL/New-Business-Development-Representative_R10105309-1) |
 | Sales Agent | ace | El Paso, TX |  | 2026-11-20 | [Apply](https://ace.wd5.myworkdayjobs.com/en-US/careers/job/El-Paso-TX/Sales-Agent_JR202640506-1) |
-| Licensed Insurance Sales Representative (Remote / Home-Based) | allstate | IL - Chicago |  | 2026-11-20 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/IL---Chicago/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37260) |
-| Licensed Insurance Sales Representative (Remote / Home-Based) | allstate | GA - Atlanta |  | 2026-11-20 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/GA---Atlanta/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37266) |
-| Licensed Insurance Sales Representative (Remote / Home-Based) | allstate | TX - Dallas |  | 2026-11-20 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/TX---Dallas/Licensed-Insurance-Sales-Representative--Remote---Home-Based-_R37268) |
 | Major & Strategic Account Executive - Health IT/SaaS | wk | USA - Chicago, IL, West Adams St |  | 2026-11-20 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Chicago-IL-West-Adams-St/Major---Strategic-Account-Executive_R0060817-1) |
-| Business Sales Representative - Strategic Accounts | att | Ocean Springs, Mississippi |  | 2026-11-20 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Ocean-Springs-Mississippi/Business-Sales-Representative---Strategic-Accounts_R-127858) |
-| Senior Business Sales Representative - Strategic Accounts | att | Framingham, Massachusetts |  | 2026-11-20 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Framingham-Massachusetts/Senior-Business-Sales-Representative---Strategic-Accounts_R-129321) |
-| Senior Business Sales Representative - Strategic Accounts | att | Reynoldsburg, Ohio |  | 2026-11-20 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Reynoldsburg-Ohio/Senior-Business-Sales-Representative---Strategic-Accounts_R-129322) |
-| Sr. Field Sales Specialist - BAS - Automated Logic | carrier | CAI26: ALC - Chicago, 2400 Ogden Avenue, Lisle, IL, 60532 USA |  | 2026-11-20 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI26-ALC---Chicago-2400-Ogden-Avenue-Lisle-IL-60532-USA/Sr-Field-Sales-Specialist---BAS---Automated-Logic_30222846-1) |
-| Sales Agent | campingworld | Englewood, CO |  | 2026-11-20 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Englewood-CO/Sales-Agent_26_09821) |
-| Sales Manager | benchmark | Riverhouse Lodge, 3075 N Business Hwy 97, Bend, OR 97703 |  | 2026-11-20 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Riverhouse-Lodge-3075-N-Business-Hwy-97-Bend-OR-97703/Sales-Manager_R0069082) |
-| Senior Group Sales Manager | benchmark | Boston Marriott Newton |  | 2026-11-20 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Boston-Marriott-Newton/Senior-Group-Sales-Manager_R0069084) |
-| AI Connect : Senior Client Partner Business Development - Verizon Partner Solut... | verizon | 3 Locations |  | 2026-11-20 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/AI-Connect---Senior-Client-Partner-Business-Development---Verizon-Partner-Solutions---Public-Sector_R-1104230) |
-| Lead-Inside Sales-1 | verizon | Temple Terrace, Florida |  | 2026-11-20 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Temple-Terrace-Florida/Lead-Inside-Sales-1_R-1100861) |
-| Associate Director, US Field Force Deployment and Sales Force Effectiveness | astrazeneca | US - Boston - MA |  | 2026-11-20 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Boston---MA/Associate-Director--US-Field-Force-Deployment-and-Sales-Force-Effectiveness_R-264817) |
-| HP Customer Sales Representative | 2020companies | Perrysburg, OH |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Perrysburg-OH/HP-Customer-Sales-Representative_REQ_117154) |
-| HP Customer Sales Representative | 2020companies | Morganville, NJ |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Morganville-NJ/HP-Customer-Sales-Representative_REQ_117155) |
-| Starlink Field Sales Rep- Part Time | 2020companies | Bosque Farms, NM |  | 2026-11-20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Bosque-Farms-NM/Starlink-Field-Sales-Rep--Part-Time_REQ_117158) |
-| Associate, Account Executive | tapestry | New York, New York, USA (Hudson Yards - Coach) |  | 2026-11-20 | [Apply](https://tapestry.wd108.myworkdayjobs.com/en-US/tapestry_careers/job/New-York-New-York-USA-Hudson-Yards---Coach/Associate--Account-Executive_JR22262) |
-| Sales Outfitter Firearms- Part Time | basspro | Fort Worth, TX |  | 2026-11-20 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Fort-Worth-TX/Sales-Outfitter-Firearms--Part-Time_R272923) |
-| Sales Outfitter Hunting - Part Time | basspro | Fort Worth, TX |  | 2026-11-20 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Fort-Worth-TX/Sales-Outfitter-Hunting---Part-Time_R273115) |
-| Sales Outfitter Camping - Part Time | basspro | Fort Worth, TX |  | 2026-11-20 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Fort-Worth-TX/Sales-Outfitter-Camping---Part-Time_R273119) |
-| Sales Specialist | abb | Remote, California, United States of America |  | 2026-11-20 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Remote-California-United-States-of-America/Sales-Specialist_JR00053629) |
-| Catering Sales Manager | asmglobal | Dayton, OH |  | 2026-11-20 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Dayton-OH/Catering-Sales-Manager_R100126702) |
-| Account Executive Premium Sales | asmglobal | Kansas City, MO |  | 2026-11-20 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Kansas-City-MO/Account-Executive-Premium-Sales_R100126707) |
-| Large Enterprise / Customer Base / Account Executive - Higher Education | Workday | USA, TX, Remote |  | 2026-11-20 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-TX-Remote/Large-Enterprise---Customer-Base---Account-Executive---Higher-Education_JR-0111575) |
-| Small Business & Growth Business - Account Executive - Chicago | Salesforce | Illinois - Chicago |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Small-Business---Growth-Business---Account-Executive---Chicago_JR364152) |
-| Small, Medium and Growth Business - Account Executive - Denver | Salesforce | Colorado - Denver |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Colorado---Denver/Small--Medium-and-Growth-Business---Account-Executive---Denver_JR364155-1) |
-| Small, Medium and Growth Business - Account Executive - New York City | Salesforce | New York - New York |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Small--Medium-and-Growth-Business---Account-Executive---New-York-City_JR364156) |
-| Small Business Sales Coach, Central Southeast, Vice President | Citi | 3 Locations |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chicago-Illinois-United-States/Small-Business-Sales-Coach--Central-Southeast--Vice-President_261007212) |
-| Specialty Sales Team Leader | Target | 4201 W Division St, Saint Cloud,MN 56301-6601 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4201-W-Division-St-Saint-CloudMN-56301-6601/Specialty-Sales-Team-Leader_R0000481068) |
-| Specialty Sales Team Leader | Target | 2700 Bell Rd, Auburn,CA 95603-2508 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2700-Bell-Rd-AuburnCA-95603-2508/Specialty-Sales-Team-Leader_R0000481623) |
-| Executive Team Leader Specialty Sales (Assistant Manager Merchandising & Servic... | Target | 2000 Waters Rd, Ann Arbor,MI 48103-8999 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2000-Waters-Rd-Ann-ArborMI-48103-8999/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising---Service----Ann-Arbor_R0000481588) |
-| Retail Industry Solutions Inside Sales Representative | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-20 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/Retail-Industry-Solutions-Inside-Sales-Representative_3170954) |
-| Seasonal Commission Sales - Men's Apparel - Southcenter | Nordstrom | Tukwila, WA |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Tukwila-WA/Seasonal-Commission-Sales---Men-s-Apparel---Southcenter_R-899980) |
-| Beauty Sales - Chanel - NYC Flagship | Nordstrom | New York, NY |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/New-York-NY/Beauty-Sales---Chanel---NYC-Flagship_R-898160) |
-| Seasonal Commission Sales - Kids' Apparel & Shoes - The Sono Collection | Nordstrom | Norwalk, CT |  | 2026-11-20 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Norwalk-CT/Seasonal-Commission-Sales---Kids--Apparel---Shoes---The-Sono-Collection_R-885122) |
-| Key Account Executive (Outside Sales) - Florence, SC | Labcorp | 3 Locations |  | 2026-11-20 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Florence-SC/Key-Account-Executive--Outside-Sales----Florence--SC_2634462-1) |
-| Group Sales Representative- San Francisco/Bay Area | Humana | 2 Locations |  | 2026-11-20 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-California/Group-Sales-Representative--San-Francisco-Bay-Area_R-430809) |
-| Senior Account Executive with SIEM / Security Analytics (Colorado) | Anomali | Denver, CO |  | 2026-11-20 | [Apply](https://jobs.lever.co/anomali/acfebfdf-1ec1-4ea6-ad14-cb2c6e17da43) |
-| Solutions Advisor / Senior Solutions Advisor – Client Sales, Occupational Healt... | USPhysicalTherapy2 | Denver, Colorado, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990017011806) |
-| Wellness Sales Representative (Anchorage, AK) | TVG-MedullaLLC | Anchorage, Alaska, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990016998976) |
-| Inside Sales Specialist | TheWonderfulCompany | Oklahoma City, OK, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162808080) |
-| New Truck Sales Coordinator | premiertruck | Amarillo, TX |  | 2026-11-20 | [Apply](https://jobs.lever.co/premiertruck/03cfc449-e8d7-442f-abcf-404ff35418c8) |
-| Sales Manager - Space Coast Harley-Davidson | SonicAutomotive | Palm Bay, FL, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SonicAutomotive/744000162781399) |
-| Salesperson - Ron Craft Chevrolet Cadillac | SonicAutomotive | Baytown, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SonicAutomotive/744000162803249) |
-| Rental Sales Agent | SIXT | Las Vegas, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SIXT/744000162772680) |
-| Rental Sales Agent (Downtown) | SIXT | Los Angeles, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/SIXT/744000162800149) |
-| Senior Solution Sales Executive | ServiceNow | Chicago, ILLINOIS, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162807659) |
-| Corporate Business Development Intern - MBA | ServiceNow | San Francisco, CALIFORNIA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162808049) |
-| Sr Federal Enterprise Account Executive - 4th Estate | ServiceNow | Vienna, Virginia, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162809374) |
-| Senior Sales Executive, Enterprise Tech | yipitdata | US Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8401285) |
-| Senior Account Executive, Enterprise Tech | yipitdatajobs | US Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8406688) |
-| Outside Sales Representative - TX (Houston, Austin, or DFW) | world4822stri986des | US - Central US Region |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/world4822stri986des/jobs/5489741008) |
-| Sales Trainee - Bronx, NY | RedBull | New York, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162776058) |
-| Account Sales Manager | RedBull | Yuma, AZ, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162808984) |
-| Strategic Account Executive | Twilio | Remote - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405824) |
-| Business Development Representative, Mid-Market | trustpilot | New York |  | 2026-11-20 | [Apply](https://corporate.trustpilot.com/careers/job/8401938?gh_jid=8401938) |
-| Sales Representative | texascartitleandpaydayloanservicesinc | Alvin, TX |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8406973) |
-| Director of Sales | tegnainc | KARE-TV Minneapolis |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/tegnainc/jobs/5302521007?gh_jid=5302521007) |
-| Director of Sales | tegnainc | WKYC-TV Cleveland |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/tegnainc/jobs/5296254007?gh_jid=5296254007) |
-| Senior Sales Account Executive | Sharp Electronics | Tampa, Florida, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4516627009) |
-| Senior Sales Account Executive | Sharp Electronics | West Palm Beach, Florida, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4510444009) |
-| Enterprise Account Executive - Upper Midwest | saltsecurity | Minneapolis, St. Louis, Milwaukee |  | 2026-11-20 | [Apply](https://salt.security/job-board?gh_jid=5304005007) |
-| Enterprise Account Executive - Ohio Valley | saltsecurity | Ohio, Western Pennsylvania, Michigan, and Indiana |  | 2026-11-20 | [Apply](https://salt.security/job-board?gh_jid=5303962007) |
-| Net New Sales Executive - NetSuite (West Territory) | rfsmart | Distributed - US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5490819008) |
-| Sales Manager | pointdigitalfinance | Palo Alto, CA |  | 2026-11-20 | [Apply](https://point.com/hiring?gh_jid=8956860002) |
-| Fairchild Media Group: Account Director, Technology | pmc | New York - New York City Office |  | 2026-11-20 | [Apply](https://www.pmc.com/join-our-team/?gh_jid=4757405005#/jobs/4757405005) |
-| Senior Director, Enterprise Measurement Solutions | partnerize | Hybrid - Manhattan, NY |  | 2026-11-20 | [Apply](https://partnerize.com/company/jobs/?gh_jid=8208476003) |
-| Director, People Business Partner – AMER Field Sales | Okta | Washington, District of Columbia, United States |  | 2026-11-20 | [Apply](https://www.okta.com/company/careers/opportunity/8406342?gh_jid=8406342) |
-| Sales Development Representative | ocrolusinc | New York, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ocrolusinc/jobs/6267294004) |
-| Sr. Enterprise Account Executive | neo4j | Chicago, Illinois; Remote: Midwest US |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/neo4j/jobs/4731320006?gh_jid=4731320006) |
-| Business Development Intern | minitab | State College, Pennsylvania, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8210859003) |
-| H&M Seasonal Sales Advisor - The Shops at Georgetown Park | H&M Group | Washington, DC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162792381) |
-| H&M Sales Advisor - The Domain - $17/hr | H&M Group | Austin, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162801188) |
-| H&M Sales Advisor (Seasonal - 15 - 30 Hours a week) - Scottsdale Fashion Square | H&M Group | Scottsdale, AZ, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162804679) |
-| Business Development Representative | konovo | Remote, Eastern Timezone, US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/konovo/jobs/5484282008) |
-| National Business Development Specialist (P&C Insurance) | isccareers | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/isccareers/jobs/4751697005) |
-| Account Executive - Enterprise (SLED) | Freshworks | Seattle, WA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Freshworks/744000162802199) |
-| Account Executive - Enterprise (SLED) | Freshworks | Portland, OR, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Freshworks/744000162802269) |
-| Traveling Account Executive - Neurology/Rare Disease | EVERSANA | Atlanta, GA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000162806249) |
-| Traveling Account Executive - Neurology/Rare Disease | EVERSANA | Chicago, IL, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000162805540) |
-| Traveling Account Executive - Neurology/Rare Disease | EVERSANA | Denver, CO, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000162805067) |
-| Regional Sales Manager | hexarmor | Knoxville, Tennessee, United States; Nashville, Tennessee, United Sta... |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8210934003) |
-| Regional Sales Manager | hexarmor | Louisville, Kentucky, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8210929003) |
-| Ocular Surface Sales Specialist-Melbourne FL | harrowhealth | Melbourne FL |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/harrowhealth/jobs/4731270006) |
-| Account Executive, New York | greenthumbindustries | Queens, New York, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8406793) |
-| Director, Partnerships | garnerhealth | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6267183004) |
-| Account Executive, eScribe | escribe | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/escribe/jobs/6264097004) |
-| Sales Development Associate | equipmentsharecom | San Diego, CA |  | 2026-11-20 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8404542) |
-| Sales Development Associate | equipmentsharecom | Poway, CA |  | 2026-11-20 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8404526) |
-| Business Development Representative Intern – Part Time | enformion | Tampa, FL (Hybrid in Tampa office) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/enformion/jobs/5302084007) |
-| Business Development Associate | eaglebusinesscredit | Woodstock, GA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/eaglebusinesscredit/jobs/8956871002) |
-| Sales Development Representative | virtuous | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/virtuous/aff75264-7ace-4d3b-b2a3-2500ea945708) |
-| Assistant Director of Sales | BoydGaming | King of Prussia, PA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/BoydGaming/3743990017006586) |
-| Inside Sales Representative (On-Site) | renuity | Madison, WI |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/renuity/68f68936-0ba9-44db-a8d8-ce498f61c625) |
-| Business Development Representative | protege | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/protege/69fe8475-714d-4028-9b0a-e8ee7cdf5091) |
-| Major Sales Director, Mid-Atlantic / DC | catonetworks | Washington, District of Columbia, United States |  | 2026-11-20 | [Apply](https://www.catonetworks.com/careers/careers-post/5037042101?gh_jid=5037042101) |
-| Sales Representative | carolinatitleloansinc | Columbia, SC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/carolinatitleloansinc/jobs/8406846) |
-| Sales Representative | carolinatitleloansinc | North Augusta, SC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/carolinatitleloansinc/jobs/8406815) |
-| Channel Sales Director, National & Sporting Goods | bruntworkwear | Wilmington, MA |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/bruntworkwear/jobs/4731221006?gh_jid=4731221006) |
-| Channel Sales Director, Farm & Fleet | bruntworkwear | Remote, US |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/bruntworkwear/jobs/4731217006?gh_jid=4731217006) |
-| Partner Sales Director, General Business Enterprise | braze | Austin |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/braze/jobs/8406808) |
-| Partner Sales Director, General Business Enterprise | braze | San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/braze/jobs/8406804) |
-| Partner Sales Director, General Business Enterprise | braze | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/braze/jobs/8406801) |
-| Senior Team Manager, Mid-Market Sales | Box | Chicago, Illinois, United States or Austin, Texas, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/8397142) |
-| Senior Account Executive - NerdWallet Small Business | nerdwallet | Scottsdale, Arizona |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/nerdwallet/e1cd3f18-a799-45c9-abb6-352d490ecb35) |
-| Senior Account Executive - NerdWallet Small Business | nerdwallet | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/nerdwallet/b6b3349f-4ece-4a3f-8294-f7df6aa9bb60) |
-| Account Executive - NerdWallet Small Business | nerdwallet | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/nerdwallet/b73c1100-d29a-4aff-a524-d9a6b76f8858) |
-| Account Executive, Mid-Market | bestpass | United States (Remote) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bestpass/jobs/4731004006) |
-| Account Executive | jigsaw | New York |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/jigsaw/16d8aaf7-417a-43da-8743-eb90bb9e4e67) |
-| Senior Sales Development Representative, LATAM | horizon3ai | Chicago, Illinois |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/aabe88cc-4ac4-4213-a353-a78b28c94ec4) |
-| Account Executive - Enterprise | harvey | New York |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/harvey/d1132fc6-8da7-48df-93f9-fef31c68dc7f) |
-| Sales Representative | fundwell | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/fundwell/9db656d6-644b-409d-aabb-bad4b0bdbcc9) |
-| Head of Sales - Data and Platform Solutions | applovin | New York City, NY |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/applovin/jobs/4730232006?gh_jid=4730232006) |
-| Outside Sales Development Representative | AMAROK | Michigan, Detroit |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6267610004) |
-| Enterprise Account Executive, AMER West | akuity | Remote - US & Canada |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/akuity/jobs/4517487009) |
-| Leader, Majors Sales | benchling | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/benchling/e3c5a5f9-66f4-4763-864f-569caa5bf2c8) |
 <!-- JOBS_TABLE_END -->
 
 <details>
