@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>34,236</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>34,076</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 00:16 UTC</sub>
+<sub>Snapshot 2026-11-22 04:17 UTC</sub>
 
 </div>
 
@@ -50,13 +50,14 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**34,236 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 00:16 UTC.** Apply links go to the employer's career page or hiring system.
+**34,076 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Salesperson | advanceauto | 1700 W Main St, Centre, AL 35960 |  | 2026-11-22 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1700-W-Main-St-Centre-AL-35960/Salesperson_R-0620309-1) |
+| Sales Outfitter- Firearms | basspro | Sayreville, NJ |  | 2026-11-22 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Sayreville-NJ/Sales-Outfitter--Firearms_R273167) |
 | Head of Revenue Operations- Remote | FloresHR | Remote Worker - N/A |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684454) |
-| Inside Sales Representative | Midwest Veterinary Supply | Norristown, PA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=293ebbc2-72a4-4413-bd7b-e06ac6d58a7e&ccId=19000101_000001&jobId=599622&lang=en_US&source=CC2) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966729) |
 | Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966819) |
 | Salesperson | advanceauto | 1002 N Breazeale Ave, Mount Olive, NC 28365 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1002-N-Breazeale-Ave-Mount-Olive-NC-28365/Salesperson_R-0620306) |
@@ -67,7 +68,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Account Executive | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/2d26ec58-c77a-42ac-9171-f1ff8a0ef004) |
 | Sales Development Representative | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/0f42f168-438f-4a90-864b-bbc3d4d41783) |
 | Senior Account Executive, Services & Industries | Adyen | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8408480) |
-| Salesperson | advanceauto | 3440 S Florida Ave, Lakeland, FL 33803 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/3440-S-Florida-Ave-Lakeland-FL-33803/Salesperson_R-0620072) |
 | Sales Development Representative (US Market) - Remote, US | oakslab | United States |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/oakslab/cd1c342c-4d65-4420-9498-8e3f22268d53) |
 | Senior Account Executive, Services & Industries | Adyen | New York |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8192010) |
 | Account Executive | snapmobileinc | St. Cloud, MN |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006) |
@@ -124,13 +124,12 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Business Development Representative -Outside Sales | Publishing Concepts | Dallas, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683293) |
 | Sales Account Representative - Hickman's | JBS USA | Sacramento, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oiY8AfwI) |
 | On Premise Sales Representative- Laguna Beach | Regal Wine Company | Laguna Beach, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jacksonfamilywines/job/op97AfwZ) |
-| Territory Sales Representative - Jacksonville (South) FL | Phathom Pharmaceuticals | Florida, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/6BCD2C58EF) |
 | Hyundai Salesperson | Kendall Dealership Holdings LLC | Vancouver, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684242) |
 | Manager, Sales Administration | BOMAG AMERICAS INC | Ridgeway, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684139) |
 | Heavy Duty Inside Parts Sales Specialist | Blaine Bros Maintenance Inc | Inver Grove Heights, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682573) |
-| Home Services Held Revenue Representative | imh | Home Services - Salt Lake City |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Home-Services---Salt-Lake-City/Home-Services-Held-Revenue-Representative_R185354) |
 | Summer 2027 Sales Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605870&lang=en) |
 | Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Credit Card Sales Advisor | Citizens Financial Group | United States |  | 2026-11-20 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50370) |
@@ -145,7 +144,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Service to Sales Manager | NISSAN | MARIETTA, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674791) |
 | Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826) |
 | Account Executive | Multiply | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/multiplyai/d253ceba-edc4-4727-bae6-3bd1165a7c79) |
-| Sales Manager (Fashion Island) | buckmason | Newport Beach, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/buckmason/d31a43f1-cb8b-4865-a96e-cb9b4f560313) |
+| Director, Business Development - Compute | highlandfleets-2 | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/highlandfleets-2/021ca18c-5e25-4f5a-94fd-2befb84b6db3) |
 | Senior Business Development Executive, Regional Outside Sales | DeWolff, Boberg & Associates | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/dewolff-boberg-associates/job/oub8Afw7) |
 | Counter Sales Service Associate | Johnstone Supply - The Founders Group | Ogden, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682423) |
 | Dual Sales Manager | Island Hospitality Management | Charlotte, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680795) |
@@ -205,6 +204,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Enterprise Account Executive II | leandata | Santa Clara |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/LeanData/adfd90ba-7d76-4ad7-a59c-f4cf8d69fd74) |
 | Account Executive - Commercial, LATAM America | Kong | Texas, United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/kong/fa3aecc8-d182-4eb2-895b-f7b9b1ade1db) |
 | Sales Representative - Inland Empire CA | axogen | San Bernardino, California, United States |  | 2026-11-20 | [Apply](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8946010002) |
+| Account Executive | hoxhunt | Minneapolis, USA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/hoxhunt/0fd0bb3f-f036-4edb-a123-3b9305d6d65b) |
 <!-- JOBS_TABLE_END -->
 
 <details>
