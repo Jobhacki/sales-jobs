@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>34,076</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>33,428</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 04:17 UTC</sub>
+<sub>Snapshot 2026-11-22 08:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**34,076 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**33,428 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -70,6 +70,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Senior Account Executive, Services & Industries | Adyen | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8408480) |
 | Sales Development Representative (US Market) - Remote, US | oakslab | United States |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/oakslab/cd1c342c-4d65-4420-9498-8e3f22268d53) |
 | Senior Account Executive, Services & Industries | Adyen | New York |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8192010) |
+| Sr. Sales Director, Health Systems (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/5408e5ed-80d8-44c6-87de-3843feb059cf) |
+| Sr. Sales Director - Large Accounts (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/b67560b2-e6d1-4c7f-b4b8-eaca7384abc3) |
+| Sales Director - Mid-Market (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/401b3fff-8025-4884-8b64-6e25e3560d2e) |
 | Account Executive | snapmobileinc | St. Cloud, MN |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Cincinnati, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952299) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Detroit, Michigan, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952339) |
@@ -124,6 +127,8 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Experienced Automotive Sales Advisor | City Limits Subaru Keating LLC | Buda, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682393) |
+| Sales Account Executive | Pavago | Atlanta, Georgia, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/7115208C3C) |
 | Business Development Representative -Outside Sales | Publishing Concepts | Dallas, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683293) |
 | Sales Account Representative - Hickman's | JBS USA | Sacramento, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oiY8AfwI) |
 | On Premise Sales Representative- Laguna Beach | Regal Wine Company | Laguna Beach, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jacksonfamilywines/job/op97AfwZ) |
@@ -144,7 +149,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Service to Sales Manager | NISSAN | MARIETTA, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674791) |
 | Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826) |
 | Account Executive | Multiply | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/multiplyai/d253ceba-edc4-4727-bae6-3bd1165a7c79) |
-| Director, Business Development - Compute | highlandfleets-2 | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/highlandfleets-2/021ca18c-5e25-4f5a-94fd-2befb84b6db3) |
 | Senior Business Development Executive, Regional Outside Sales | DeWolff, Boberg & Associates | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/dewolff-boberg-associates/job/oub8Afw7) |
 | Counter Sales Service Associate | Johnstone Supply - The Founders Group | Ogden, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682423) |
 | Dual Sales Manager | Island Hospitality Management | Charlotte, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680795) |
@@ -201,10 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Product Solutions Manager | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/357f7397-65c7-4b36-90b7-29db5fbd385f) |
 | Enterprise Account Executive (Northeast) | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/10a38035-9735-4b7c-9db1-e973daaf2380) |
 | Regional Sales Manager | bigid | New York City |  | 2026-11-20 | [Apply](https://bigid.com/company/careers/job-details/8957355002?gh_jid=8957355002) |
-| Enterprise Account Executive II | leandata | Santa Clara |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/LeanData/adfd90ba-7d76-4ad7-a59c-f4cf8d69fd74) |
-| Account Executive - Commercial, LATAM America | Kong | Texas, United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/kong/fa3aecc8-d182-4eb2-895b-f7b9b1ade1db) |
-| Sales Representative - Inland Empire CA | axogen | San Bernardino, California, United States |  | 2026-11-20 | [Apply](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8946010002) |
-| Account Executive | hoxhunt | Minneapolis, USA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/hoxhunt/0fd0bb3f-f036-4edb-a123-3b9305d6d65b) |
 <!-- JOBS_TABLE_END -->
 
 <details>
