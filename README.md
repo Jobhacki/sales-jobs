@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>33,428</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>33,469</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 08:17 UTC</sub>
+<sub>Snapshot 2026-11-22 12:17 UTC</sub>
 
 </div>
 
@@ -50,13 +50,15 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**33,428 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**33,469 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| NetSuite - Sales Development Manager - People leader role - Nashville, TN | Oracle | Nashville, TN, United States |  | 2026-11-22 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351008) |
 | Salesperson | advanceauto | 1700 W Main St, Centre, AL 35960 |  | 2026-11-22 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1700-W-Main-St-Centre-AL-35960/Salesperson_R-0620309-1) |
 | Sales Outfitter- Firearms | basspro | Sayreville, NJ |  | 2026-11-22 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Sayreville-NJ/Sales-Outfitter--Firearms_R273167) |
+| TERRITORY SALES MANAGER | Elevate Healthcare | MA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5fc0b4f7-0110-48f9-8f9b-1876dad903c8&ccId=19000101_000001&jobId=518020&lang=en_US&source=CC2) |
 | Head of Revenue Operations- Remote | FloresHR | Remote Worker - N/A |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684454) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966729) |
 | Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966819) |
@@ -70,9 +72,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Senior Account Executive, Services & Industries | Adyen | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8408480) |
 | Sales Development Representative (US Market) - Remote, US | oakslab | United States |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/oakslab/cd1c342c-4d65-4420-9498-8e3f22268d53) |
 | Senior Account Executive, Services & Industries | Adyen | New York |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8192010) |
-| Sr. Sales Director, Health Systems (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/5408e5ed-80d8-44c6-87de-3843feb059cf) |
-| Sr. Sales Director - Large Accounts (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/b67560b2-e6d1-4c7f-b4b8-eaca7384abc3) |
-| Sales Director - Mid-Market (South East) | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/401b3fff-8025-4884-8b64-6e25e3560d2e) |
 | Account Executive | snapmobileinc | St. Cloud, MN |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Cincinnati, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952299) |
 | Regional Sales Manager - Pumps - Midwest-Great Lakes | ImageAssociatesInc | Detroit, Michigan, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ImageAssociatesInc/744000162952339) |
@@ -127,14 +126,22 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Inside Sales Representative | Howmet Aerospace | Cleveland, OH, United States |  | 2026-11-20 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120668) |
+| Director of Logistic Sales | RJ Logistics | Chattanooga, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682467) |
+| Vice President of Sales, Marketing & Business Development | Kondex Corporation | Lomira, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684007) |
+| Outside Industrial Tire Sales Specialist | Jamadmin, Inc | Hamilton, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681467) |
+| Outside Industrial Tire Sales Specialist - Columbus, OH | Jamadmin, Inc | Mansfield, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681528) |
+| SMB Account Executive | talentpluto | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/1164A58FD6) |
+| Sales Development Representative | talentpluto | San Francisco, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/4E16F837CE) |
+| Sales Development Representative | talentpluto | San Francisco, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/D52EBF5764) |
 | Experienced Automotive Sales Advisor | City Limits Subaru Keating LLC | Buda, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682393) |
-| Sales Account Executive | Pavago | Atlanta, Georgia, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/7115208C3C) |
 | Business Development Representative -Outside Sales | Publishing Concepts | Dallas, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683293) |
 | Sales Account Representative - Hickman's | JBS USA | Sacramento, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oiY8AfwI) |
 | On Premise Sales Representative- Laguna Beach | Regal Wine Company | Laguna Beach, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jacksonfamilywines/job/op97AfwZ) |
 | Hyundai Salesperson | Kendall Dealership Holdings LLC | Vancouver, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684242) |
 | Manager, Sales Administration | BOMAG AMERICAS INC | Ridgeway, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684139) |
 | Heavy Duty Inside Parts Sales Specialist | Blaine Bros Maintenance Inc | Inver Grove Heights, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682573) |
+| Account Executive I - 1096 (Remote) | economicmodeling | Remote (Work From Home) US |  | 2026-11-20 | [Apply](https://jobs.lever.co/economicmodeling/7e7de256-223c-4e74-9a39-33935ee9a249) |
 | Summer 2027 Sales Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605870&lang=en) |
 | Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Credit Card Sales Advisor | Citizens Financial Group | United States |  | 2026-11-20 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50370) |
@@ -198,13 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Regional Sales Manager (Ohio) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/1877ad75-3eef-4c15-bfaf-022796a3d200) |
 | Regional Sales Manager (Carolinas) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/93932f72-1c3a-46af-9121-01ee0bf8fcd3) |
 | Regional Sales Manager (New York) | planera | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/planera/ab4fb552-5f30-451b-989a-197224a00fcb) |
-| Regional Sales Director, Legal | perplexity | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Perplexity/179dfb70-1190-4e92-9f9a-a63218d36ca4) |
-| Director of Business Development (Minnesota Market) | bluestone | Minneapolis/St. Paul Metro Area |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512524009) |
-| Director of Business Development - Wisconsin Market | bluestone | Milwaukee, WI |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512521009) |
-| Senior Living Relationship Manager | bluestone | Milwaukee, WI |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bluestone/jobs/4512447009) |
-| Product Solutions Manager | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/357f7397-65c7-4b36-90b7-29db5fbd385f) |
-| Enterprise Account Executive (Northeast) | optro | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/optro/10a38035-9735-4b7c-9db1-e973daaf2380) |
-| Regional Sales Manager | bigid | New York City |  | 2026-11-20 | [Apply](https://bigid.com/company/careers/job-details/8957355002?gh_jid=8957355002) |
 <!-- JOBS_TABLE_END -->
 
 <details>
