@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-sales-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-sales-jobs-light.svg"><img alt="Sales jobs: JobHacki job list, last updated on Nov 22, 2026" src="assets/dist/hero-sales-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-sales-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-sales-jobs-light.svg"><img alt="Sales jobs: JobHacki job list, last updated on Nov 23, 2026" src="assets/dist/hero-sales-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>33,376</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>33,498</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 20:18 UTC</sub>
+<sub>Snapshot 2026-11-23 00:17 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-SDRs, account executives and sales leaders, explore a fresh slice of sales jobs taken from employers' own hiring systems. Updated Nov 22, 2026.
+SDRs, account executives and sales leaders, explore a fresh slice of sales jobs taken from employers' own hiring systems. Updated Nov 23, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,11 +50,17 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**33,376 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**33,498 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Salesperson | advanceauto | 2305 SW 8th St, Miami, FL 33135 |  | 2026-11-23 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/2305-SW-8th-St-Miami-FL--33135/Salesperson_R-0620181) |
+| Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000163104019) |
+| Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000163104109) |
+| Business Development Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731461006) |
+| Enterprise Account Executive | incident | New York |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/incident/915da7c3-5bda-4b55-b468-f5e74b9c9381) |
+| Enterprise Account Executive (BDM), Corporate - Texas | ideals | Texas, United States |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/ideals/7003d850-1bb2-411a-bb0c-373558d5a5bf) |
 | Enterprise Business Development Representative | incident | New York |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/incident/5c18978a-c2c7-4426-be0c-d5224bb894e8) |
 | Sales Assistant | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163096984) |
 | VP of Sales | clera | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/Clera/db75dfda-da55-479a-9d39-d32d37f01f6b) |
@@ -66,14 +72,10 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | NetSuite - Sales Development Manager - People leader role - Nashville, TN | Oracle | Nashville, TN, United States |  | 2026-11-22 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351008) |
 | Salesperson | advanceauto | 1700 W Main St, Centre, AL 35960 |  | 2026-11-22 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1700-W-Main-St-Centre-AL-35960/Salesperson_R-0620309-1) |
 | Sales Outfitter- Firearms | basspro | Sayreville, NJ |  | 2026-11-22 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Sayreville-NJ/Sales-Outfitter--Firearms_R273167) |
-| Inside Sales & Advertising Telemarketer | Payroll | Ballwin, MO, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696199&lang=en_US&source=CC2) |
-| Inside Sales Representative- Advertising Executive (Remote) | Payroll | Ballwin, MO, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696200&lang=en_US&source=CC2) |
-| Inside Sales Representative- Advertising Executive (Remote) | Payroll | Austin, TX, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696201&lang=en_US&source=CC2) |
+| Route Relief Sales Representative | Crown Distributors | Topeka, KS |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684438) |
 | Inside Sales Associate | NFPA Global Solutions Inc. | Saint Paul, MN |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677334) |
 | Head of Revenue Operations- Remote | FloresHR | Remote Worker - N/A |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684454) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966729) |
-| Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162966819) |
-| Salesperson | advanceauto | 1002 N Breazeale Ave, Mount Olive, NC 28365 |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/1002-N-Breazeale-Ave-Mount-Olive-NC-28365/Salesperson_R-0620306) |
 | Manager, Solutions Architect | Together AI | San Francisco |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5300653007) |
 | Manager, Enterprise Sales / HCLS | jamf | Austin, TX; Eau Claire, WI; Minneapolis, MN |  | 2026-11-21 | [Apply](https://www.jamf.com/about/careers/jobs/?gh_jid=6268061004&gh_jid=6268061004) |
 | Associate Strategic Accounts Manager - Coatings | Carlisle Companies | Akron, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Carlisle/3743990017022705) |
@@ -136,6 +138,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Serv... | Target | 5345 Crossridge Blvd, Indian Land,SC 29707-7892 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675) |
 | Commission Sales - Women's Apparel - Domain Northside | Nordstrom | Austin, TX |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Austin-TX/Commission-Sales---Women-s-Apparel---Domain-Northside_R-900087) |
 | Beauty Sales - Men's Fragrances - Menlo Park | Nordstrom | Edison, NJ |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Beauty-Sales---Men-s-Fragrances---Menlo-Park_R-899119) |
+| Sales Manager - Audio Visual, Event Technology | Pinnacle Live | Championsgate, FL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/pinnaclelive/job/o448AfwA) |
+| Lawn Sales Representative | Fairway All Brands Page | Holly Springs, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681226) |
+| REMOTE Leadership in Sales | American Income Life | Grand Rapids, Michigan, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/13FC5B84C7) |
 | Inside Sales Representative | Howmet Aerospace | Cleveland, OH, United States |  | 2026-11-20 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120668) |
 | Director of Logistic Sales | RJ Logistics | Chattanooga, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682467) |
 | Vice President of Sales, Marketing & Business Development | Kondex Corporation | Lomira, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684007) |
@@ -162,6 +167,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Service to Sales Manager | NISSAN | MARIETTA, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674791) |
 | Automotive Technical Business Development Manager, Agentic AI and GSI Ecosystem | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Automotive-Technical-Business-Development-Manager--Agentic-AI-and-GSI-Ecosystem_JR2029826) |
 | Account Executive | Multiply | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/multiplyai/d253ceba-edc4-4727-bae6-3bd1165a7c79) |
+| Director, Business Development - Compute | highlandfleets-2 | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/highlandfleets-2/021ca18c-5e25-4f5a-94fd-2befb84b6db3) |
 | Senior Business Development Executive, Regional Outside Sales | DeWolff, Boberg & Associates | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/dewolff-boberg-associates/job/oub8Afw7) |
 | Counter Sales Service Associate | Johnstone Supply - The Founders Group | Ogden, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682423) |
 | Dual Sales Manager | Island Hospitality Management | Charlotte, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680795) |
@@ -189,7 +195,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Founding Account Executive | pilothq | San Francisco, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pilothq/jobs/8953443002) |
 | Business Development Representative (BDR) Manager | parachutehealth | U.S. Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/parachutehealth/jobs/5304056007) |
 | Senior Account Executive, Arts & Culture | orchestra | New York, N.Y. |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/orchestra/jobs/8950014002) |
-| Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162833199) |
 | Parts Counter Sales | meriton | Phoenix, AZ |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/meriton/jobs/5491335008) |
 | Sales Specialist | lucidmotors | McLean, VA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5304320007?gh_jid=5304320007) |
 | Director, Platform Sales (Apply for Future Openings) | leagueinc | United States (Remote) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/leagueinc/jobs/6268034004) |
@@ -200,11 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | H&M Sales Advisor - Tanger Outlets, North Charleston | H&M Group | North Charleston, SC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/HMGroup/744000162813849) |
 | Regional Account Executive - Prenatal (Upper West) | genedx | Remote |  | 2026-11-20 | [Apply](https://genedx.com/careers/openings?gh_jid=4757429005) |
 | Director, Sales Strategy & Operations | ethoslife | Remote US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ethoslife/jobs/8922155002) |
-| Inside Sales Representative | coolwillys | 1435 S. Euclid Ave, Tucson AZ 85713 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/coolwillys/jobs/4517694009) |
-| CNS/Neuroscience, ADHD Territory Sales Representative - Raleigh South NC | collegiumpharma | Raleigh, NC |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/collegiumpharma/jobs/4730971006) |
-| Director of Sales | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017015816) |
-| Senior Business Development Manager- Remote | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017015866) |
-| Account Executive | squint.ai | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/squint.ai/af3b0951-fffc-4e2d-bc17-d823b4ec65a4) |
 <!-- JOBS_TABLE_END -->
 
 <details>
