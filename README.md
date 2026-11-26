@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>35,667</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>36,194</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 04:17 UTC</sub>
+<sub>Snapshot 2026-11-26 08:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**35,667 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**36,194 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sales Development Representative | lightfield | HQ: San Francisco | $110k-140k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Lightfield/fbb2e984-661d-456a-a423-2208669bdb16) |
 | Direct Sales Representative- Residential | astound | 2 Locations |  | 2026-11-26 | [Apply](https://astound.wd108.myworkdayjobs.com/en-US/astound_careers/job/TX--Midland/Direct-Sales-Representative--Residential_JR-000979) |
 | Seasonal Commission Sales - Women's Apparel - The Shops at Mission Viejo | Nordstrom | Mission Viejo, CA |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Mission-Viejo-CA/Seasonal-Commission-Sales---Women-s-Apparel---The-Shops-at-Mission-Viejo_R-901108-1) |
 | Salesperson - Poway Honda | SonicAutomotive | Poway, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SonicAutomotive/744000163777549) |
@@ -84,16 +85,20 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Named Account Executive, State Government (NY) | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Named-Account-Executive--State-Government--NY-_JR369335) |
 | Commission Sales - Men's Apparel - Cherry Hill | Nordstrom | Cherry Hill, NJ |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Cherry-Hill-NJ/Retail-Sales---Men-s-Apparel---Cherry-Hill_R-879472) |
 | Seasonal Commission Sales - Shoes - International Plaza | Nordstrom | Tampa, FL |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Tampa-FL/Seasonal-Commission-Sales---Shoes---International-Plaza_R-886438) |
+| Inside Part Sales | Pace Transportation | Sterling Heights, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/roadequipment/job/oPd9Bfww) |
+| Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
+| VP of Sales | Raydar | New York, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/AF1C333192) |
+| Account Representative, Cedar Rapids, Iowa | Precoa | Cedar Rapids, Iowa, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/DF3CDD75C9) |
+| Account Representative (Licensed Funeral Director, Sales Leadership) | Precoa | Lynchburg, Virginia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/05A1CD1C85) |
+| Regional Vice President of Business Development – Field Sales / Baltimore/DC | cogentanalytics | Baltimore, MD |  | 2026-11-25 | [Apply](https://jobs.lever.co/cogentanalytics/3a86deac-8169-4440-9705-4a2d8a220abf) |
+| Business Development Director, East Coast/EU | prolific-machines | Boston, Massachusetts | $170k-220k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/prolific-machines/e99ec8bc-50ac-43f1-87c8-eb60a9e94716) |
+| Business Development, Manager | hark | San Jose |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4524581009) |
 | Sales Advisor | Land Rover Hinsdale | Hinsdale, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686653) |
-| Account Executive - Remote | FIXD Automotive | Atlanta, Georgia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/1C6D63E433) |
-| Account Executive - Hybrid | FIXD Automotive | Atlanta, Georgia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/30994A3E9F) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Spring, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418360) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Houston, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418362) |
 | Business Development Manager | shiphawk | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/shiphawk/jobs/8418411) |
 | Sales Development Representative | schrdinger | Portland; San Diego |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/schrdinger/jobs/8215528003) |
 | Enterprise Account Executive - US Federal | PagerDuty | Remote (USA - Washington DC-Baltimore Area) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/6253535004) |
-| Enterprise Account Executive | Magnet Forensics | New York |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/8184be5a-6b13-4d2e-b3fc-f2aae304ce34) |
-| Enterprise Account Executive | Magnet Forensics | Florida |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/04290f49-904d-40e8-a853-f55e4b4b6920) |
 | Account Executive - South East Asia | dragos | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5463248008) |
 | Large Enterprise Account Executive | Box | New York, NY, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/8394016) |
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
@@ -200,11 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Regional Vice President, Enterprise Account Management | Clari + Salesloft | United States, Remote |  | 2026-11-25 | [Apply](https://www.salesloft.com/company/careers?gh_jid=8384271) |
 | Senior Technical Solutions Manager, Signals | Reddit | Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8350912) |
 | Business Development Representative | reachdesk | Brooklyn, New York, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/reachdesk/jobs/5048757101) |
-| Sales Director / Lead Community Living Advisor | SpectrumRetirementCommunities | Cedar Park, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990017094756) |
-| Dealership Salesperson - Mercedes Benz of McKinney | SonicAutomotive | Mckinney, TEXAS, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SonicAutomotive/744000163756729) |
-| Counter Sales Representative | REXEL | Danvers, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163742039) |
-| Vice President of Sales, Brand Direct | pixability | Remote (East Coast Preferred) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pixability/jobs/8417037) |
-| Senior Sales Director, Los Angeles | pixability | Los Angeles, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pixability/jobs/8416957) |
 <!-- JOBS_TABLE_END -->
 
 <details>
