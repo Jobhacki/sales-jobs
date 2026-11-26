@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>36,198</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>36,286</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 12:18 UTC</sub>
+<sub>Snapshot 2026-11-26 16:18 UTC</sub>
 
 </div>
 
@@ -50,15 +50,21 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**36,198 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
+**36,286 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sales Development Representative (SDR) | Validus Risk Management | New York, New York, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/4DA31388BA) |
+| Casual Clothing Sales Outfitter - Part Time | basspro | Hamburg, PA |  | 2026-11-26 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Hamburg-PA/Casual-Clothing-Sales-Outfitter---Part-Time_R273456) |
+| Sales Development Manager | bottomlinetechnologies | Portsmouth, NH |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8872083002) |
+| Business Development Representative | clera | San Francisco | $70k-80k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/e14da326-1112-4e8f-a9da-31e41dc41972) |
+| Junk Removal & Route Sales | 1800gotjunk | Panama City, FL |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4524902009) |
+| Junk Removal & On-Site Sales | 1800gotjunk | Vinings, GA |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4524898009) |
+| Junk Removal Laborer and Field Sales | 1800gotjunk | Ashland, VA |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4524908009) |
 | Junior Sales Representative | D.R. Horton | Overland Park, KS, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605844&lang=en) |
 | Sales Representative | D.R. Horton | Charlotte, NC, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605902&lang=en) |
 | Sales Representative - Polk County | D.R. Horton | Davenport, FL, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605474&lang=en) |
-| Outside Sales Representative | Power Dry | POST FALLS, ID, Post Falls, ID, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=576235&lang=en_US&source=CC2) |
 | Inside Sales | exclusivenetworks | Remote Tunis |  | 2026-11-26 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/en-US/exclusive-networks-career/job/Remote-Tunis/Inside-Sales_JR2808-1) |
 | Head of Sales | sonio | Boston |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Sonio/213f0d8b-97c5-4740-b4f7-53f7aef1e50f) |
 | Sales Development Representative | lightfield | HQ: San Francisco | $110k-140k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Lightfield/fbb2e984-661d-456a-a423-2208669bdb16) |
@@ -91,6 +97,10 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Named Account Executive, State Government (NY) | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Named-Account-Executive--State-Government--NY-_JR369335) |
 | Commission Sales - Men's Apparel - Cherry Hill | Nordstrom | Cherry Hill, NJ |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Cherry-Hill-NJ/Retail-Sales---Men-s-Apparel---Cherry-Hill_R-879472) |
 | Seasonal Commission Sales - Shoes - International Plaza | Nordstrom | Tampa, FL |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Tampa-FL/Seasonal-Commission-Sales---Shoes---International-Plaza_R-886438) |
+| Sales Director (Full Time) | The Parkway Senior Living | Blue Springs, MO, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/vitaliastow/job/olh9Bfw6) |
+| Customer Sales Manager | Traffic Tech Inc. | Chattanooga, TN, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/traffictech/job/oF39Bfwc) |
+| NEW CONSTRUCTION SALES REPRESENTATIVE | Garage Door Partners LLC | Naples, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3647088) |
+| Inside Sales Representative | Garage Door Partners LLC | Naples, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3653986) |
 | Commercial Sales Manager | Digital Realty | Dallas, TX, United States |  | 2026-11-25 | [Apply](https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9179) |
 | Field Sales Engineer | onsemi | San Jose, CA, United States |  | 2026-11-25 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507280) |
 | AVP Recreational Marine Sales Manager | Chubb | NC, United States |  | 2026-11-25 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38884) |
@@ -103,11 +113,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Diagnostic Sales Specialist - Tampa, FL | Hologic | Tampa, FL, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12883) |
 | District Sales Manager - Southeast | Hologic | Orlando, FL, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12844) |
 | Diagnostic Sales Specialist - Cleveland, OH | Hologic | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12836) |
-| Territory Sales Manager | Club Car | Huntersville, NC, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0b279ef4-70b5-43b5-9b1c-ebf799fd2e4c&ccId=19000101_000001&jobId=955487&lang=en_US&source=CC2) |
-| Outside Sales Representative – Full-Time - Base Pay + Commission | Power Dry | Wall Township, NJ, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=576207&lang=en_US&source=CC2) |
-| Head of Sales | Rockstar | Indianapolis, Indiana, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/FC1CD017DC) |
 | Inside Part Sales | Pace Transportation | Sterling Heights, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/roadequipment/job/oPd9Bfww) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
+| Business Development, Manager | hark | San Jose |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4524581009) |
 | Sales Advisor | Land Rover Hinsdale | Hinsdale, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686653) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Spring, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418360) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Houston, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418362) |
@@ -119,6 +127,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
 | Inside Sales Representative - WI | J&B Medical Supply Co Inc | Wixom, MI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686926) |
 | Experienced Automotive Sales Advisor | Toyota of Cedar Park Keating LLC | Cedar Park, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686553) |
+| Sales Development Representative | canarytechnologies | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/d7761d81-8688-48fb-9ace-ab1d3a7bf190) |
+| Mid-Market Account Executive | canarytechnologies | Dallas, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/39628de5-09df-4807-8361-b143c24133b5) |
+| Account Executive | Avalerehealth | Remote (US) |  | 2026-11-25 | [Apply](https://jobs.lever.co/avalerehealth/913da74a-ac6e-41e8-b0be-4ef3a1fa7f0d) |
 | Sales Account Executive | vipvermontinformationprocessing2 | Colchester, Vermont, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5309766007) |
 | Sales Development Representative | trase | Remote; USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/trase/jobs/5308921007) |
 | Account Representative | VeoliaEnvironnementSA | Raleigh, NC, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163764849) |
@@ -194,17 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Catering Sales Manager | benchmark | Westin Tampa Bay |  | 2026-11-25 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Westin-Tampa-Bay/Catering-Sales-Manager_R0069262) |
 | Client Executive - SLED Sales | verizon | Temple Terrace, Florida |  | 2026-11-25 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Temple-Terrace-Florida/Client-Executive---SLED-Sales_R-1104384-1) |
 | District Sales Manager - Bone Health - Louisville, KY | amgen | 4 Locations |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Kentucky---Louisville/District-Sales-Manager---Bone-Health---Louisville--KY_R-261867) |
-| Field Sales Manager | 2020companies | Duluth, MN |  | 2026-11-25 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Duluth-MN/Field-Sales-Manager_REQ_117369) |
-| Samsung Field Sales Manager | 2020companies | Duluth, GA |  | 2026-11-25 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Duluth-GA/Field-Sales-Manager_REQ_117370) |
-| Samsung Field Sales Manager | 2020companies | Lansing, MI |  | 2026-11-25 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Lansing-MI/Field-Sales-Manager_REQ_117373) |
-| Sales Outfitter-Apparel Seasonal | basspro | Sevierville, TN |  | 2026-11-25 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Sevierville-TN/Sales-Outfitter-Apparel-Seasonal_R271908) |
-| Sales Outfitter-Footwear | basspro | Sevierville, TN |  | 2026-11-25 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Sevierville-TN/Sales-Outfitter-Footwear_R273427) |
-| Area Sales Manager - OEM | abb | Houston, Texas, United States of America |  | 2026-11-25 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Houston-Texas-United-States-of-America/Area-Sales-Manager---OEM_JR00054354) |
-| Qualified Commercial Account Executive | Salesforce | 14 Locations |  | 2026-11-25 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Remote/Qualified-Commercial-Account-Executive_JR369615) |
-| Named Account Executive, Federal Civilian (VA) | Salesforce | 5 Locations |  | 2026-11-25 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--VA-_JR361793) |
-| Account Executive (AE) - Enterprise | HP | All Cities, Georgia, United States of America |  | 2026-11-25 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-Georgia-United-States-of-America/Account-Executive--AE----Enterprise_3171412-1) |
-| Senior Account Executive - Public and Labor (Miami-Dade Region) | CVS Health | FL - Miami |  | 2026-11-25 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Miami/Senior-Account-Executive---Public-and-Labor--Miami-Dade-Region-_R1000702-1) |
-| Sales Manager | workshop | Omaha, Nebraska |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/workshop/jobs/5309583007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
