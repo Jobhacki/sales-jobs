@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>36,194</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>36,198</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 08:18 UTC</sub>
+<sub>Snapshot 2026-11-26 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,17 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**36,194 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**36,198 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Junior Sales Representative | D.R. Horton | Overland Park, KS, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605844&lang=en) |
+| Sales Representative | D.R. Horton | Charlotte, NC, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605902&lang=en) |
+| Sales Representative - Polk County | D.R. Horton | Davenport, FL, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605474&lang=en) |
+| Outside Sales Representative | Power Dry | POST FALLS, ID, Post Falls, ID, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=576235&lang=en_US&source=CC2) |
+| Inside Sales | exclusivenetworks | Remote Tunis |  | 2026-11-26 | [Apply](https://exclusivenetworks.wd103.myworkdayjobs.com/en-US/exclusive-networks-career/job/Remote-Tunis/Inside-Sales_JR2808-1) |
+| Head of Sales | sonio | Boston |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Sonio/213f0d8b-97c5-4740-b4f7-53f7aef1e50f) |
 | Sales Development Representative | lightfield | HQ: San Francisco | $110k-140k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Lightfield/fbb2e984-661d-456a-a423-2208669bdb16) |
 | Direct Sales Representative- Residential | astound | 2 Locations |  | 2026-11-26 | [Apply](https://astound.wd108.myworkdayjobs.com/en-US/astound_careers/job/TX--Midland/Direct-Sales-Representative--Residential_JR-000979) |
 | Seasonal Commission Sales - Women's Apparel - The Shops at Mission Viejo | Nordstrom | Mission Viejo, CA |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Mission-Viejo-CA/Seasonal-Commission-Sales---Women-s-Apparel---The-Shops-at-Mission-Viejo_R-901108-1) |
@@ -85,14 +91,23 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Named Account Executive, State Government (NY) | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Named-Account-Executive--State-Government--NY-_JR369335) |
 | Commission Sales - Men's Apparel - Cherry Hill | Nordstrom | Cherry Hill, NJ |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Cherry-Hill-NJ/Retail-Sales---Men-s-Apparel---Cherry-Hill_R-879472) |
 | Seasonal Commission Sales - Shoes - International Plaza | Nordstrom | Tampa, FL |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Tampa-FL/Seasonal-Commission-Sales---Shoes---International-Plaza_R-886438) |
+| Commercial Sales Manager | Digital Realty | Dallas, TX, United States |  | 2026-11-25 | [Apply](https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9179) |
+| Field Sales Engineer | onsemi | San Jose, CA, United States |  | 2026-11-25 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507280) |
+| AVP Recreational Marine Sales Manager | Chubb | NC, United States |  | 2026-11-25 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38884) |
+| Sr. Agency Sales Manager | Chubb | Houston, TX, United States |  | 2026-11-25 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38838) |
+| Senior Sales Manager, Software | UL Solutions | Chicago, IL, United States |  | 2026-11-25 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11530) |
+| Sales Executive - Hereditary Cancer Screening - Wichita, KS | Myriad Genetics | Wichita, KS, United States |  | 2026-11-25 | [Apply](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6359) |
+| Lead Inside Sales Executive - Oracle Health Mid-Market | Oracle | United States |  | 2026-11-25 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351399) |
+| Digital Sales Manager | Sinclair | Rochester, NY, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17691) |
+| Head of Sales Enablement | DNV | Houston, TX, United States |  | 2026-11-25 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7762) |
+| Diagnostic Sales Specialist - Tampa, FL | Hologic | Tampa, FL, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12883) |
+| District Sales Manager - Southeast | Hologic | Orlando, FL, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12844) |
+| Diagnostic Sales Specialist - Cleveland, OH | Hologic | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12836) |
+| Territory Sales Manager | Club Car | Huntersville, NC, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0b279ef4-70b5-43b5-9b1c-ebf799fd2e4c&ccId=19000101_000001&jobId=955487&lang=en_US&source=CC2) |
+| Outside Sales Representative – Full-Time - Base Pay + Commission | Power Dry | Wall Township, NJ, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07c0f8ad-6012-4b76-ada2-bf60caa52e3f&ccId=19000101_000001&jobId=576207&lang=en_US&source=CC2) |
+| Head of Sales | Rockstar | Indianapolis, Indiana, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/FC1CD017DC) |
 | Inside Part Sales | Pace Transportation | Sterling Heights, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/roadequipment/job/oPd9Bfww) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
-| VP of Sales | Raydar | New York, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/AF1C333192) |
-| Account Representative, Cedar Rapids, Iowa | Precoa | Cedar Rapids, Iowa, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/DF3CDD75C9) |
-| Account Representative (Licensed Funeral Director, Sales Leadership) | Precoa | Lynchburg, Virginia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/05A1CD1C85) |
-| Regional Vice President of Business Development – Field Sales / Baltimore/DC | cogentanalytics | Baltimore, MD |  | 2026-11-25 | [Apply](https://jobs.lever.co/cogentanalytics/3a86deac-8169-4440-9705-4a2d8a220abf) |
-| Business Development Director, East Coast/EU | prolific-machines | Boston, Massachusetts | $170k-220k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/prolific-machines/e99ec8bc-50ac-43f1-87c8-eb60a9e94716) |
-| Business Development, Manager | hark | San Jose |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4524581009) |
 | Sales Advisor | Land Rover Hinsdale | Hinsdale, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686653) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Spring, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418360) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Houston, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418362) |
@@ -190,21 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Account Executive (AE) - Enterprise | HP | All Cities, Georgia, United States of America |  | 2026-11-25 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-Georgia-United-States-of-America/Account-Executive--AE----Enterprise_3171412-1) |
 | Senior Account Executive - Public and Labor (Miami-Dade Region) | CVS Health | FL - Miami |  | 2026-11-25 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Miami/Senior-Account-Executive---Public-and-Labor--Miami-Dade-Region-_R1000702-1) |
 | Sales Manager | workshop | Omaha, Nebraska |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/workshop/jobs/5309583007) |
-| Provider Partnerships Associate (Territory Sales) | usenourish | St. Petersburg, FL |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5491930008) |
-| Account Executive- Factoring | truckstop | Boise, Idaho, United States |  | 2026-11-25 | [Apply](https://truckstop.com/about/careers/openings/5309591007?gh_jid=5309591007) |
-| Global Wealth, RIA Internal Sales, Associate | tpgcareers | New York - 245 Park Avenue |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tpgcareers/jobs/8217205003) |
-| Business Development Representative (BDR) | toshibaglobalcommercesolutions | Durham, NC |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5309506007) |
-| Account Executive | threecolts | United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/threecolts/jobs/5048661101) |
-| Sales Representative | tennesseetitleloansinc | Knoxville, TN |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tennesseetitleloansinc/jobs/8417394) |
-| National Sales Manager | tegnainc | KING KONG-TV Seattle |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/tegnainc/jobs/5301928007?gh_jid=5301928007) |
-| Strategic Account Executive | syndio | Remote Home Office - United States |  | 2026-11-25 | [Apply](https://synd.io/careers/?gh_jid=6271404004) |
-| Sr. Sales Manager, SLED (Global Starlink Enterprise Sales) | SpaceX | Palo Alto, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962384002?gh_jid=8962384002) |
-| Sr. Sales Manager, SLED (Global Starlink Enterprise Sales) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962383002?gh_jid=8962383002) |
-| Sr. Sales Manager, SLED (Global Starlink Enterprise Sales) | SpaceX | Hawthorne, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962381002?gh_jid=8962381002) |
-| Sales Account Executive | Sharp Electronics | Los Angeles, California, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4523170009) |
-| Regional Vice President, Enterprise Account Management | Clari + Salesloft | United States, Remote |  | 2026-11-25 | [Apply](https://www.salesloft.com/company/careers?gh_jid=8384271) |
-| Senior Technical Solutions Manager, Signals | Reddit | Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8350912) |
-| Business Development Representative | reachdesk | Brooklyn, New York, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/reachdesk/jobs/5048757101) |
 <!-- JOBS_TABLE_END -->
 
 <details>
