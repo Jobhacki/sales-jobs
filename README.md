@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>36,226</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>35,068</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 04:17 UTC</sub>
+<sub>Snapshot 2026-11-27 08:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,19 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**36,226 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**35,068 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Director, AMS Sales | kodiakgas | TX - The Woodlands, Corporate HQ |  | 2026-11-27 | [Apply](https://kodiakgas.wd12.myworkdayjobs.com/en-US/kodiakgascareers/job/TX---The-Woodlands-Corporate-HQ/Director--AMS-Sales_JR3953) |
+| Area Manager - Institutional Sales - Building | aliaxis | IN KL - Cochin |  | 2026-11-27 | [Apply](https://aliaxis.wd3.myworkdayjobs.com/en-US/aliaxis/job/IN-KL---Cochin/Area-Manager---Institutional-Sales---Building_R-58996) |
+| Executive Team Leader Food & Beverage Sales (Assistant Manager Food & Beverage)... | Target | 22832 US Highway 281 N, San Antonio,TX 78258-7430 |  | 2026-11-27 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/22832-US-Highway-281-N-San-AntonioTX-78258-7430/Executive-Team-Leader-Food---Beverage-Sales--Assistant-Manager-Food---Beverage---San-Antonio-TX_R0000481993) |
 | Digital Sales Specialist | abb | 2 Locations |  | 2026-11-27 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Remote-Arizona-United-States-of-America/Digital-Sales-Specialist_JR00053423) |
 | Technical Sales Specialist - Material Handling | abb | 2 Locations |  | 2026-11-27 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-UT-Salt-Lake-City/Technical-Sales-Specialist---Material-Handling_JR00053424) |
-| Industrial Sales | Mercer Zimmerman | Overland Park, KS, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=36cc7e50-e603-4471-859f-705189c3b169&ccId=19000101_000001&jobId=563821&lang=en_US&source=CC2) |
+| Business Development Director | Clinigen | San Diego, California, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/C01199ABED) |
+| Business Development Director | Clinigen | San Francisco, California, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/34965AC55E) |
+| Business Development Director | Clinigen | Durham, North Carolina, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/78E16773D9) |
 | SAP Edge: Pre-Sales Solution Architect | accenture |  |  | 2026-11-26 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Dallas-5205-N-OConnor-Las-Colinas-Corp/SAP-Edge--Pre-Sales-Solution-Architect_R00346415) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000163930239) |
 | Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000163930329) |
@@ -115,10 +120,11 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Named Account Executive, State Government (NY) | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Named-Account-Executive--State-Government--NY-_JR369335) |
 | Commission Sales - Men's Apparel - Cherry Hill | Nordstrom | Cherry Hill, NJ |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Cherry-Hill-NJ/Retail-Sales---Men-s-Apparel---Cherry-Hill_R-879472) |
 | Seasonal Commission Sales - Shoes - International Plaza | Nordstrom | Tampa, FL |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Tampa-FL/Seasonal-Commission-Sales---Shoes---International-Plaza_R-886438) |
+| Account Executive, RPX Empower | RPX | San Francisco, CA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/rpxcorp/job/ooh9Bfw9) |
+| Business Development Specialist | Bodewell Group | San Diego, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694283) |
+| Sales Coordinator | Atlas Companies | Brooklyn Park, MN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693311) |
 | Sales Representative- Entry Level | Bisco Industries | Wallingford, CT, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/biscoindustries/job/oEf9Bfwn) |
 | Sales Representative - Western US Region | Eatery Essentials Inc. | CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694766) |
-| Business Traveler (BT) Sales Manager | Makeready LLC | Heathman Hotel, Portland, OR, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3eee3616-edb4-4d43-8c71-5a633d0d0022&ccId=19000101_000001&jobId=578767&lang=en_US&source=CC2) |
-| Strategic Account Executive | Checkmate | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/0AC67AA926) |
 | Outside Parts Sales Representative | NY Bus Sales LLC | NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693144) |
 | Sales Director (Full Time) | The Parkway Senior Living | Blue Springs, MO, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/vitaliastow/job/olh9Bfw6) |
 | Customer Sales Manager | Traffic Tech Inc. | Chattanooga, TN, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/traffictech/job/oF39Bfwc) |
@@ -138,7 +144,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Diagnostic Sales Specialist - Cleveland, OH | Hologic | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12836) |
 | Inside Part Sales | Pace Transportation | Sterling Heights, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/roadequipment/job/oPd9Bfww) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
-| Business Development Director, East Coast/EU | prolific-machines | Boston, Massachusetts | $170k-220k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/prolific-machines/e99ec8bc-50ac-43f1-87c8-eb60a9e94716) |
 | Business Development, Manager | hark | San Jose |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4524581009) |
 | Sales Advisor | Land Rover Hinsdale | Hinsdale, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686653) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Spring, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418360) |
@@ -151,6 +156,9 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
 | Inside Sales Representative - WI | J&B Medical Supply Co Inc | Wixom, MI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686926) |
 | Experienced Automotive Sales Advisor | Toyota of Cedar Park Keating LLC | Cedar Park, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686553) |
+| Sales Development Representative | canarytechnologies | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/d7761d81-8688-48fb-9ace-ab1d3a7bf190) |
+| Mid-Market Account Executive | canarytechnologies | Dallas, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/39628de5-09df-4807-8361-b143c24133b5) |
+| Account Executive | Avalerehealth | Remote (US) | $60k-75k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/avalerehealth/913da74a-ac6e-41e8-b0be-4ef3a1fa7f0d) |
 | Sales Account Executive | vipvermontinformationprocessing2 | Colchester, Vermont, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5309766007) |
 | Sales Development Representative | trase | Remote; USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/trase/jobs/5308921007) |
 | Account Representative | VeoliaEnvironnementSA | Raleigh, NC, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163764849) |
@@ -197,14 +205,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Mid Market Account Executive | affinity.co | New York |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/affinity.co/1a4d6f51-e4a0-4935-8e48-5196d2ce1336) |
 | Sales Development Manager, North America (On-Site) | CameraMatics | Austin, United States |  | 2026-11-25 | [Apply](https://cameramatics-1639649453.teamtailor.com/jobs/8795749-sales-development-manager-north-america-on-site) |
 | Senior Sales Representative | Summit Beverage | Butte, MT |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693683) |
-| Sales Person | Farmers Home Furniture | BAY MINETTE, AL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684840) |
-| Sales Person | Farmers Home Furniture | TROY, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678223) |
-| Hourly/Commission Sales | Farmers Home Furniture | ANNISTON, AL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684812) |
-| Field Sales Engineer, NYC | axis | USA - NY - New York |  | 2026-11-25 | [Apply](https://axis.wd3.myworkdayjobs.com/en-US/external_career_site/job/USA---NY---New-York/Field-Sales-Engineer--NYC_R-124069) |
-| Field Sales Professional - Northwest Ohio | varsitybrands | OH - Toledo |  | 2026-11-25 | [Apply](https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/OH---Toledo/Field-Sales-Professional---Northwest-Ohio_JR115682) |
-| Director, Channel Sales | arcticwolf | Remote, United States |  | 2026-11-25 | [Apply](https://arcticwolf.wd1.myworkdayjobs.com/en-US/external/job/Remote-United-States/Director--Channel-Sales_R26_1282-1) |
-| Associate Sales Manager, Commercial Equipment | assurant | United States Virtual |  | 2026-11-25 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/assurant_careers/job/United-States-Virtual/Associate-Sales-Manager--Commercial-Equipment_R-115689-1) |
-| Employee Benefits Account Executive | bbinsurance | Remote - Texas |  | 2026-11-25 | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Remote---Texas/Employee-Benefits-Account-Executive_R26_0000004176) |
 <!-- JOBS_TABLE_END -->
 
 <details>
