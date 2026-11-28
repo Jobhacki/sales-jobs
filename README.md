@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>35,119</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>35,246</h3><sub>open sales jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-28 00:18 UTC</sub>
+<sub>Snapshot 2026-11-28 04:19 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 
 ## Open jobs
 
-**35,119 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**35,246 open sales jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 04:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Seasonal Commission Sales - Men's Apparel - Brea Mall | Nordstrom | Brea, CA |  | 2026-11-28 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Brea-CA/Commission-Sales---Men-s-Apparel---Brea-Mall_R-900772) |
 | Salesperson | advanceauto | 5400 W 38th Ave, Wheat Ridge, CO 80212 |  | 2026-11-28 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/5400-W-38th-Ave-Wheat-Ridge-CO-80212/Salesperson_R-0620928) |
 | Salesperson | advanceauto | 10702 Kingston Pike, Knoxville, TN 37934 |  | 2026-11-28 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/10702-Kingston-Pike-Knoxville-TN-37934/Salesperson_R-0620936) |
 | salesperson | advanceauto | 7020 N Church Avenue, Mulberry, FL 33860 |  | 2026-11-28 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/7020-N-Church-Avenue-Mulberry-FL--33860/salesperson_R-0620937) |
@@ -64,11 +65,13 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Footwear Sales Outfitter | basspro | Anchorage, AK (Bass Pro Shops) |  | 2026-11-28 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Anchorage-AK-Bass-Pro-Shops/Footwear-Sales-Outfitter_R273494) |
 | Beauty Sales - Beauty Rituals - Ridgedale | Nordstrom | Minnetonka, MN |  | 2026-11-28 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Minnetonka-MN/Beauty-Sales---Beauty-Rituals---Ridgedale_R-900874) |
 | Beauty Sales - Men's Fragrances - The Americana at Brand | Nordstrom | Glendale, CA |  | 2026-11-28 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Glendale-CA/Beauty-Sales---Men-s-Fragrances---The-Americana-at-Brand_R-901181) |
+| Sales Manager - Audi/VW | Ciocca Automotive | Flemington, NJ |  | 2026-11-27 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695352) |
+| Automotive Sales - Subaru | Ciocca Automotive | ALLENTOWN, PA |  | 2026-11-27 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695484) |
+| Automotive Sales - Honda | Ciocca Automotive | Hanover, PA |  | 2026-11-27 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695842) |
 | Salesperson - Carson Honda | SonicAutomotive | Carson, CA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/SonicAutomotive/744000164094739) |
 | Senior Solutions Architect — Enterprise AI Infrastructure | mirantis | Raleigh, NC, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/mirantis/744000164095679) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000164097509) |
 | Account Executive | MicroStrategy | Charlotte, North Carolina, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000164096984) |
-| Enterprise Account Executive | pelmorex | Remote US |  | 2026-11-27 | [Apply](https://jobs.lever.co/pelmorex/a3209203-944f-4b96-8e3d-b425462ffb2a) |
 | Solutions Engineer II, Healthcare (C1 - B2B) | clear | New York, New York, United States |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8421576) |
 | Membership Sales Ambassador Full Time | bjswholesaleclub | North Bergen, NJ #0190 |  | 2026-11-27 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/North-Bergen-NJ-0190/Membership-Sales-Ambassador-Full-Time_R263796) |
 | Manager In Training/Sales Representative | texascartitleandpaydayloanservicesinc | Lubbock, TX |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8420974) |
@@ -79,7 +82,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Founding Account Executive | clera | San Francisco | $110k-150k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Clera/fc38bcbc-f01c-4593-b1cf-6a5f526f748d) |
 | Business Development / Sales Lead | clera | United States | $150k-200k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Clera/825da3c0-012a-4d97-b00a-f72b06b268a3) |
 | Automotive Service, Sales & Management Opportunities | aaamidatlantic | 2 Locations |  | 2026-11-27 | [Apply](https://aaamidatlantic.wd5.myworkdayjobs.com/en-US/external_career_ase/job/Fairfax-VA-22031/Automotive-Service--Sales---Management-Opportunities_44370-1) |
-| Beauty Sales - Dior - Broadway Plaza | Nordstrom | Walnut Creek, CA |  | 2026-11-27 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Walnut-Creek-CA/Beauty-Sales---Dior---Broadway-Plaza_R-901127) |
 | Business Development Representative | reachdesk | Stamford, Connecticut, United States |  | 2026-11-27 | [Apply](https://job-boards.eu.greenhouse.io/reachdesk/jobs/5052815101) |
 | Enterprise Sales Account Executive, SLED (Mid-Atlantic) | Sectigo | Baltimore, MD, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Sectigo/3743990017112156) |
 | Enterprise Sales Account Executive, SLED (North West) | Sectigo | Seattle, WA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Sectigo/3743990017112246) |
@@ -103,8 +105,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Executive Team Leader Food & Beverage Sales (Assistant Manager Food & Beverage)... | Target | 22832 US Highway 281 N, San Antonio,TX 78258-7430 |  | 2026-11-27 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/22832-US-Highway-281-N-San-AntonioTX-78258-7430/Executive-Team-Leader-Food---Beverage-Sales--Assistant-Manager-Food---Beverage---San-Antonio-TX_R0000481993) |
 | Digital Sales Specialist | abb | 2 Locations |  | 2026-11-27 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Remote-Arizona-United-States-of-America/Digital-Sales-Specialist_JR00053423) |
 | Technical Sales Specialist - Material Handling | abb | 2 Locations |  | 2026-11-27 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-UT-Salt-Lake-City/Technical-Sales-Specialist---Material-Handling_JR00053424) |
-| Subsidiary Rights & Sales Intern | ADP employer 8e27a2d8 | New York, NY, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&jobId=609394&lang=en_US&source=CC2) |
-| Sales Intern | ADP employer 8e27a2d8 | New York, NY, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&jobId=609395&lang=en_US&source=CC2) |
+| SAP Edge: Pre-Sales Solution Architect | accenture |  |  | 2026-11-26 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Dallas-5205-N-OConnor-Las-Colinas-Corp/SAP-Edge--Pre-Sales-Solution-Architect_R00346415) |
 | Account Executive | MicroStrategy | Chicago, ILLINOIS, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000163930239) |
 | Remote Inside Sales Associate (Insurance Tech Startup) | Jerry | Raleigh, North Carolina | $19-21/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/8840066f-1f0c-49df-b181-87cefe2512a9) |
 | Sales Manager, Small Fleet Sales | bpinternational | United States of America - Illinois - Chicago |  | 2026-11-26 | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpcareers/job/United-States-of-America---Illinois---Chicago/Sales-Manager--Small-Fleet-Sales_RQ118477) |
@@ -146,6 +147,8 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Sr. Premium Sales Representative / Univ. of Florida | asmglobal | Gainesville, FL |  | 2026-11-26 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Gainesville-FL/Sr-Premium-Sales-Representative---Univ-of-Florida_R100126766) |
 | Vice President, Partnership Sales / Univ. of Florida | asmglobal | Gainesville, FL |  | 2026-11-26 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Gainesville-FL/Vice-President--Partnership-Sales---Univ-of-Florida_R100126767) |
 | Named Account Executive, State Government (NY) | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Named-Account-Executive--State-Government--NY-_JR369335) |
+| Kendall Ford Commercial & Fleet Salesperson | Kendall Dealership Holdings LLC | Eugene, OR |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694923) |
+| Sales Manager | MODERNCONTROLS LLC. | New Castle, DE |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693360) |
 | B2B Sales Manager, Canada | Inogen | Remote, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/inogen/job/ooB8Afwr) |
 | Inside Sales Representative ( base plus commission) | Hood Distribution | Jacksonville, FL, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/hoodindustries/job/oYZ9Bfwr) |
 | Account Executive | Arbitersports LLC | Remote Worker - N/A |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694163) |
@@ -176,7 +179,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Diagnostic Sales Specialist - Cleveland, OH | Hologic | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12836) |
 | Inside Part Sales | Pace Transportation | Sterling Heights, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/roadequipment/job/oPd9Bfww) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
-| Business Development Director, East Coast/EU | prolific-machines | Boston, Massachusetts | $170k-220k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/prolific-machines/e99ec8bc-50ac-43f1-87c8-eb60a9e94716) |
 | Business Development, Manager | hark | San Jose |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4524581009) |
 | Sales Advisor | Land Rover Hinsdale | Hinsdale, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686653) |
 | Sales Representative | texascartitleandpaydayloanservicesinc | Spring, TX |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/texascartitleandpaydayloanservicesinc/jobs/8418360) |
@@ -189,9 +191,6 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
 | Inside Sales Representative - WI | J&B Medical Supply Co Inc | Wixom, MI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686926) |
 | Experienced Automotive Sales Advisor | Toyota of Cedar Park Keating LLC | Cedar Park, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686553) |
-| Sales Development Representative | canarytechnologies | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/d7761d81-8688-48fb-9ace-ab1d3a7bf190) |
-| Mid-Market Account Executive | canarytechnologies | Dallas, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/canarytechnologies/39628de5-09df-4807-8361-b143c24133b5) |
-| Account Executive | Avalerehealth | Remote (US) | $60k-75k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/avalerehealth/913da74a-ac6e-41e8-b0be-4ef3a1fa7f0d) |
 | Sales Account Executive | vipvermontinformationprocessing2 | Colchester, Vermont, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5309766007) |
 | Sales Development Representative | trase | Remote; USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/trase/jobs/5308921007) |
 | Account Representative | VeoliaEnvironnementSA | Raleigh, NC, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163764849) |
@@ -205,6 +204,7 @@ SDRs, account executives and sales leaders, explore a fresh slice of sales jobs 
 | Technical Sales Manager - Greater Boston Academic Accounts (Single Cell Sequenc... | parsebiosciences | Greater Boston/Cambridge Area |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/parsebiosciences/jobs/8217381003?gh_jid=8217381003) |
 | Sales Trainee | RedBull | Louisville, KY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163759609) |
 | District Sales Manager | RedBull | Indianapolis, IN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163759720) |
+| Sales Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418206?gh_jid=8418206) |
 <!-- JOBS_TABLE_END -->
 
 <details>
